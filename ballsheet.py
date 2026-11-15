@@ -89,6 +89,11 @@ def _config_dir() -> str:
 
 
 SETTINGS_FILE = os.path.join(_config_dir(), "settings.json")
+# Where Info queries and custom stats you save go: beside the program when run from its
+# folder; Documents/BallSheet for the downloaded (packaged) program, whose folder is
+# read-only. Saved queries there are loaded at start-up alongside the built-in ones.
+USER_DIR = (os.path.join(HOME, "Documents", "BallSheet") if getattr(sys, "frozen", False)
+            else HERE)
 DEFAULT_TEXT_OFFSET = -2
 MIN_TEXT_POINTS = 7.0
 
@@ -5199,7 +5204,7 @@ class MainWindow(QMainWindow):
             QMessageBox.information(self, "Custom stats", "No custom stat definitions to save yet.")
             return
         path, _ = QFileDialog.getSaveFileName(
-            self, "Save custom stat definitions", os.path.join(HERE, "custom-stats.json"),
+            self, "Save custom stat definitions", os.path.join(USER_DIR, "custom-stats.json"),
             "JSON files (*.json)")
         if not path:
             return
@@ -14901,10 +14906,11 @@ class MainWindow(QMainWindow):
 
     # -- the list ------------------------------------------------------------
     def _load_default_info_queries(self):
-        for fname in sorted(os.listdir(HERE)):
+        folders = [HERE] + ([USER_DIR] if USER_DIR != HERE and os.path.isdir(USER_DIR) else [])
+        for folder, fname in [(d, f) for d in folders for f in sorted(os.listdir(d))]:
             if fname.startswith("info-") and fname.endswith(".json"):
                 try:
-                    self._add_info_queries(infoquery.read_queries(os.path.join(HERE, fname)))
+                    self._add_info_queries(infoquery.read_queries(os.path.join(folder, fname)))
                 except (OSError, ValueError) as exc:
                     self._say("info", f"Skipped {fname}: {exc}")
         if self._info_queries:
@@ -15018,7 +15024,7 @@ class MainWindow(QMainWindow):
         slug = "".join(c if c.isalnum() else "-" for c in q["name"].lower()).strip("-")
         while "--" in slug:
             slug = slug.replace("--", "-")
-        path, _ = QFileDialog.getSaveFileName(self, "Save Info query", os.path.join(HERE, f"info-{slug}.json"),
+        path, _ = QFileDialog.getSaveFileName(self, "Save Info query", os.path.join(USER_DIR, f"info-{slug}.json"),
                                               "JSON files (*.json)")
         if not path:
             return

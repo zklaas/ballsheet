@@ -3,6 +3,18 @@
 A PyQt6 desk for Major League batter, pitcher and team numbers. Pick a team,
 then step through its history one season at a time.
 
+## Download
+
+Ready-to-run downloads (executable programs), with nothing else to install:
+
+* **Windows:** [BallSheet-Setup-Windows.exe](https://github.com/zklaas/ballsheet/releases/latest/download/BallSheet-Setup-Windows.exe)
+* **macOS** (Apple silicon): [BallSheet-macOS.dmg](https://github.com/zklaas/ballsheet/releases/latest/download/BallSheet-macOS.dmg)
+* **Linux:** [BallSheet-Linux-x86_64.AppImage](https://github.com/zklaas/ballsheet/releases/latest/download/BallSheet-Linux-x86_64.AppImage)
+
+The first time, Windows or macOS asks before opening it; the
+[release page](https://github.com/zklaas/ballsheet/releases/latest) says what to click.
+To install from the source code at the command line instead, see below.
+
 ## Install
 
 ```
