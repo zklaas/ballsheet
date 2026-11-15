@@ -33,6 +33,7 @@ import io
 import json
 import math
 import os
+import sys
 import re
 import threading
 import time
@@ -1785,6 +1786,12 @@ def all_players(files: dict[str, list[dict]], names: dict) -> list[dict]:
 #  The file                                                                   #
 # --------------------------------------------------------------------------- #
 def data_dir() -> str:
+    """Data folder: %APPDATA% / %LOCALAPPDATA% on Windows, ~/Library on macOS,
+    the usual XDG folder on Linux."""
+    if os.name == "nt":
+        return os.path.join(os.environ.get("LOCALAPPDATA") or os.path.expanduser("~"), "BallSheet")
+    if sys.platform == "darwin":
+        return os.path.join(os.path.expanduser("~"), "Library", "Application Support", "BallSheet")
     return os.path.join(os.environ.get("XDG_DATA_HOME") or os.path.expanduser("~/.local/share"), "ballsheet")
 
 

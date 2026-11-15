@@ -78,7 +78,17 @@ LIVE_TTL = 600  # seconds before a current-season response is refetched
 # The app's text size, in points relative to the desktop's (View menu; takes effect at the next
 # start, since the fonts are worked out from it as the window is built).  Smaller than the
 # desktop by default: the window has to fit short screens (1280x624 here).
-SETTINGS_FILE = os.path.join(os.path.expanduser("~"), ".config", "ballsheet", "settings.json")
+def _config_dir() -> str:
+    """Config folder: %APPDATA% / %LOCALAPPDATA% on Windows, ~/Library on macOS,
+    the usual XDG folder on Linux."""
+    if os.name == "nt":
+        return os.path.join(os.environ.get("APPDATA") or os.path.expanduser("~"), "BallSheet")
+    if sys.platform == "darwin":
+        return os.path.join(os.path.expanduser("~"), "Library", "Application Support", "BallSheet")
+    return os.path.join(os.path.expanduser("~"), ".config", "ballsheet")
+
+
+SETTINGS_FILE = os.path.join(_config_dir(), "settings.json")
 DEFAULT_TEXT_OFFSET = -2
 MIN_TEXT_POINTS = 7.0
 

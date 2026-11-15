@@ -19,6 +19,7 @@ import hashlib
 import json
 import math
 import os
+import sys
 import re
 import time
 import urllib.error
@@ -34,9 +35,17 @@ API = "https://statsapi.mlb.com/api/v1"
 API_V11 = "https://statsapi.mlb.com/api/v1.1"  # the game feed (Gameday) lives only here
 SPORT_ID = 1  # 1 = Major League Baseball
 
-CACHE_DIR = os.path.join(
-    os.environ.get("XDG_CACHE_HOME", os.path.expanduser("~/.cache")), "ballsheet"
-)
+def _cache_dir() -> str:
+    """Cache folder: %APPDATA% / %LOCALAPPDATA% on Windows, ~/Library on macOS,
+    the usual XDG folder on Linux."""
+    if os.name == "nt":
+        return os.path.join(os.environ.get("LOCALAPPDATA") or os.path.expanduser("~"), "BallSheet", "cache")
+    if sys.platform == "darwin":
+        return os.path.join(os.path.expanduser("~"), "Library", "Caches", "BallSheet")
+    return os.path.join(os.environ.get("XDG_CACHE_HOME", os.path.expanduser("~/.cache")), "ballsheet")
+
+
+CACHE_DIR = _cache_dir()
 _UA = "BallSheet/1.0 (+https://statsapi.mlb.com; personal use)"
 _TIMEOUT = 20
 

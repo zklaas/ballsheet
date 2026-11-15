@@ -1618,3 +1618,10 @@ with an MLB player ID, collected in October 2026). Wikidata is public domain (CC
 | `xlsxlite.py` | tiny dependency-free `.xlsx` writer |
 | `test_core.py` | offline tests — `python3 -m unittest` |
 | `make_icons.py` | regenerate `icons/ballsheet*.png` |
+
+## Windows and macOS
+
+The same code runs on Windows and macOS. To install it there:
+
+* **Windows:** see [WINDOWS.md](WINDOWS.md) (`install.ps1`).
+* **macOS:** see [MACOS.md](MACOS.md) (`install-macos.sh`).
