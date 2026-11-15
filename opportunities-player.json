@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Opportunities",
+    "formula": "{Running (Retrosheet): Steal Opportunities} + {Running (Retrosheet): Extra Base Opportunities} + {Running (Retrosheet): Tag Up Opportunities}"
+  }
+]

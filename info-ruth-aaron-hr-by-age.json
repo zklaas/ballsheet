@@ -1,0 +1,11 @@
+{
+  "name": "Babe Ruth vs Hank Aaron: home runs by age",
+  "description": "Each season's home runs, lined up by the age the source gives for the player that season.",
+  "source": "player-seasons",
+  "subjects": ["Babe Ruth", "Hank Aaron"],
+  "x": "age",
+  "series": [
+    {"name": "Home runs", "formula": "{Batting: HR}", "panel": 1, "format": "int"}
+  ],
+  "panels": {"1": {"title": "Home runs in the season"}}
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Singles",
+    "formula": "{Batting: H}-{Batting: 2B}-{Batting: 3B}-{Batting: HR}"
+  }
+]

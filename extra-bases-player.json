@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Extra Bases",
+    "formula": "{Running (Retrosheet): 1st to 3rd on Single} + 2*{Running (Retrosheet): 1st to Home on Single} + {Running (Retrosheet): 2nd to Home on Single} + {Running (Retrosheet): 1st to Home on Double}"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Production Score",
+    "formula": "qualify({Batting: PA}, 3.1 * {Team: G}, {Custom: Runs Produced per Plate Appearance} / {MLB: Runs Produced per Plate Appearance})"
+  }
+]

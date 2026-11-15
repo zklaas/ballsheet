@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Earned Run Average",
+    "formula": "{Pitching: ER}*27/{Pitching: Outs}"
+  }
+]

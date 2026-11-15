@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Runs Produced per Plate Appearance",
+    "formula": "({Batting: R}+{Batting: RBI}-{Batting: HR})/{Batting: PA}"
+  }
+]

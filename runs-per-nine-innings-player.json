@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Runs per Nine Innings",
+    "formula": "{Pitching: R}*27/{Pitching: Outs}"
+  }
+]

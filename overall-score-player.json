@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Overall Score",
+    "formula": "average({Custom: Production Score}, {Custom: Range Score}, {Custom: Speed Score}, {Custom: Prevention Score})"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "name": "Runs Produced: the top 10 careers since 1901",
+  "title": "The ten most career Runs Produced since 1901, beside their Runs + RBI",
+  "description": "Career Runs Produced (R + RBI − HR), counting seasons from 1901 on, ranked from the left. Beside each player's Runs Produced bar, his Runs with his RBI stacked on top: the stack stands taller by his home runs, each being both a run and an RBI.",
+  "source": "player-seasons",
+  "subjects": [
+    "Ty Cobb",
+    "Hank Aaron",
+    "Babe Ruth",
+    "Barry Bonds",
+    "Albert Pujols",
+    "Stan Musial",
+    "Alex Rodriguez",
+    "Lou Gehrig",
+    "Pete Rose",
+    "Willie Mays"
+  ],
+  "where": [
+    "{Player: Season} >= 1901"
+  ],
+  "x": "age",
+  "chart": "bars",
+  "series": [
+    {
+      "name": "Runs Produced",
+      "formula": "{Batting: R} + {Batting: RBI} - {Batting: HR}",
+      "panel": 1,
+      "format": "int"
+    },
+    {
+      "name": "Runs",
+      "formula": "{Batting: R}",
+      "panel": 1,
+      "format": "int",
+      "stack": "Runs + RBI"
+    },
+    {
+      "name": "RBI",
+      "formula": "{Batting: RBI}",
+      "panel": 1,
+      "format": "int",
+      "stack": "Runs + RBI"
+    }
+  ],
+  "panels": {
+    "1": {
+      "title": "Career totals"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Speed Score",
+    "formula": "qualify({Custom: Opportunities}, {Team: G}, {Custom: Bases Gained per Opportunity} / {MLB: Bases Gained per Opportunity})"
+  }
+]

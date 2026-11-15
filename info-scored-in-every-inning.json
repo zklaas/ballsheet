@@ -1,0 +1,42 @@
+{
+  "name": "Scored in every inning",
+  "title": "Teams that scored in every inning they batted, 1901 on",
+  "description": "Every AL and NL game since 1901 (postseason included) in which a team scored at least one run in each inning it came to bat, in date order, from MLB's line scores. Only three did it through nine full turns at bat: the 1923 Giants, the 1964 Cardinals and the 1999 Rockies. A home team that won without batting in the ninth had eight turns; rain-shortened games count the innings played. Add {Innings: Batted} >= 9 to the conditions to keep the nine-inning ones alone.",
+  "source": "league-games",
+  "season": 1901,
+  "season_to": 2026,
+  "rank_by": "{Game: Date}",
+  "order": "lowest",
+  "top": 100,
+  "postseason": true,
+  "where": [
+    "{Innings: Scored} = {Innings: Batted}"
+  ],
+  "x": "rank",
+  "chart": "bars",
+  "series": [
+    {
+      "name": "Innings batted (scored in each)",
+      "formula": "{Innings: Batted}",
+      "panel": 1,
+      "format": "int"
+    },
+    {
+      "name": "Runs",
+      "formula": "{Team: Runs}",
+      "panel": 1,
+      "format": "int"
+    },
+    {
+      "name": "Most in one inning",
+      "formula": "{Innings: Most runs}",
+      "panel": 1,
+      "format": "int"
+    }
+  ],
+  "panels": {
+    "1": {
+      "title": "In the game"
+    }
+  }
+}

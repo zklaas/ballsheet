@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Tag Ups",
+    "formula": "{Running (Retrosheet): 1st to 2nd on Fly Out} + 2*{Running (Retrosheet): 1st to 3rd on Fly Out} + 3*{Running (Retrosheet): 1st to Home on Fly Out} + {Running (Retrosheet): 2nd to 3rd on Fly Out} + 2*{Running (Retrosheet): 2nd to Home on Fly Out} + {Running (Retrosheet): 3rd to Home on Fly Out}"
+  }
+]

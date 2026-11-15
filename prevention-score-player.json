@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Prevention Score",
+    "formula": "qualify({Pitching: Outs}, 0.9 * {Team: G}, {MLB: Runs per Nine Innings} / {Custom: Runs per Nine Innings})"
+  }
+]

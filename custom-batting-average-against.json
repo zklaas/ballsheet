@@ -1,0 +1,5 @@
+{
+  "level": "player",
+  "name": "Batting Average Against",
+  "formula": "{Pitching: H} / {Pitching: AB}"
+}

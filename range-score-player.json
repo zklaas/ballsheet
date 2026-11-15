@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Range Score",
+    "formula": "qualify({Range: Innings}, 3 * {Team: G}, {Range: Chances} / {Range: Expected Chances})"
+  }
+]

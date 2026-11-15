@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Unearned Runs",
+    "formula": "{Pitching: R}-{Pitching: ER}"
+  }
+]

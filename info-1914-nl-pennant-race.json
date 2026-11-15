@@ -1,0 +1,14 @@
+{
+  "name": "1914 National League pennant race",
+  "description": "Every NL club's games over .500 (wins minus losses) after each of its games, first to last -- the Miracle Braves were last in July.",
+  "source": "team-games",
+  "subjects": ["National League"],
+  "season": 1914,
+  "x": "game",
+  "running": true,
+  "series": [
+    {"name": "Games over .500", "formula": "{Team: W} - {Team: L}", "panel": 1, "format": "int"}
+  ],
+  "panels": {"1": {"title": "Games over .500 (wins minus losses)"}},
+  "reference_lines": [{"panel": 1, "value": 0, "label": ".500"}]
+}

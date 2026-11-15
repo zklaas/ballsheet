@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Runs Produced",
+    "formula": "{Batting: R}+{Batting: RBI}-{Batting: HR}"
+  }
+]

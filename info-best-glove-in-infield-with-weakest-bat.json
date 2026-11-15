@@ -1,0 +1,62 @@
+{
+  "name": "Best glove in infield with weakest bat",
+  "description": "The player-seasons that best combine wide range in the field with weak run production, infielders (1B, 2B, 3B, SS) in the AL and NL, 1901-2026. Each is measured against the league average that year: range factor per nine innings against the average at his main position, runs produced (R + RBI \u2212 HR) per plate appearance against the league's, pitchers' plate appearances included as on the Production tab. The score multiplies how far he is above average in the field by how far below it he is at producing runs, so only a player well clear on both sides ranks high. Only seasons that qualify by MLB's own rules count: 3.1 plate appearances per team game (the batting title) and games at the position at least 2/3 of his team's games (the fielding title). Pitchers, catchers (whose range factor is mostly their pitchers' strikeouts) and outfielders are left out, and so are the Negro Leagues, whose records are too incomplete to rank by rate. So is the 60-game 2020 season, whose qualifiers had only about 225 plate appearances. One season per player: his highest-scoring.",
+  "source": "league-seasons",
+  "season": 1901,
+  "season_to": 2026,
+  "positions": [
+    "1B",
+    "2B",
+    "3B",
+    "SS"
+  ],
+  "where": [
+    "{Batting: PA} >= 3.1 * {Team: G}",
+    "{Fielding: G} >= 2 / 3 * {Team: G}",
+    "{Fielding: RF/9} > {MLB: RF/9}",
+    "({Batting: R} + {Batting: RBI} - {Batting: HR}) / {Batting: PA} < ({MLB: R} + {MLB: RBI} - {MLB: HR}) / {MLB: PA}",
+    "{Player: Season} != 2020"
+  ],
+  "rank_by": "(({Fielding: RF/9} / {MLB: RF/9}) - 1) * (1 - (({Batting: R} + {Batting: RBI} - {Batting: HR}) / {Batting: PA} / (({MLB: R} + {MLB: RBI} - {MLB: HR}) / {MLB: PA})))",
+  "top": 10,
+  "distinct": true,
+  "x": "rank",
+  "series": [
+    {
+      "name": "Range factor vs league at his position",
+      "formula": "{Fielding: RF/9} / {MLB: RF/9}",
+      "panel": 1,
+      "format": "2"
+    },
+    {
+      "name": "Runs produced per PA vs league",
+      "formula": "({Batting: R} + {Batting: RBI} - {Batting: HR}) / {Batting: PA} / (({MLB: R} + {MLB: RBI} - {MLB: HR}) / {MLB: PA})",
+      "panel": 1,
+      "format": "2"
+    },
+    {
+      "name": "Glove-and-no-bat score",
+      "formula": "(({Fielding: RF/9} / {MLB: RF/9}) - 1) * (1 - (({Batting: R} + {Batting: RBI} - {Batting: HR}) / {Batting: PA} / (({MLB: R} + {MLB: RBI} - {MLB: HR}) / {MLB: PA})))",
+      "panel": 2,
+      "format": "3"
+    }
+  ],
+  "panels": {
+    "1": {
+      "title": "Against the league average that season (1.00 = average)",
+      "min": 0.4,
+      "max": 1.4
+    },
+    "2": {
+      "title": "Score: (range ratio \u2212 1) \u00d7 (1 \u2212 runs-produced ratio)",
+      "min": 0
+    }
+  },
+  "reference_lines": [
+    {
+      "panel": 1,
+      "value": 1,
+      "label": "League average"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "level": "player",
+    "name": "Innings per Start",
+    "formula": "{Relief (Retrosheet): Outs in Starts}/3/{Relief (Retrosheet): Starts}"
+  },
+  {
+    "level": "player",
+    "name": "Win-Loss Percentage in Starts",
+    "formula": "{Relief (Retrosheet): Wins in Starts}/({Relief (Retrosheet): Wins in Starts}+{Relief (Retrosheet): Losses in Starts})"
+  },
+  {
+    "level": "player",
+    "name": "Team Win-Loss Percentage in Starts",
+    "formula": "{Relief (Retrosheet): Team Wins in Starts}/({Relief (Retrosheet): Team Wins in Starts}+{Relief (Retrosheet): Team Losses in Starts})"
+  },
+  {
+    "level": "player",
+    "name": "Starter Differential",
+    "formula": "{Relief (Retrosheet): Team Wins in Starts}/({Relief (Retrosheet): Team Wins in Starts}+{Relief (Retrosheet): Team Losses in Starts})-{Relief (Retrosheet): Wins in Starts}/({Relief (Retrosheet): Wins in Starts}+{Relief (Retrosheet): Losses in Starts})"
+  },
+  {
+    "level": "player",
+    "name": "Innings per Relief Appearance",
+    "formula": "{Relief (Retrosheet): Outs in Relief}/3/{Relief (Retrosheet): Relief Appearances}"
+  },
+  {
+    "level": "player",
+    "name": "Innings per Save Situation",
+    "formula": "{Relief (Retrosheet): Outs in Save Situations}/3/{Relief (Retrosheet): Save Situations}"
+  },
+  {
+    "level": "player",
+    "name": "Save Situations Converted by Definition",
+    "formula": "({Relief (Retrosheet): Holds from Save Situations}+{Relief (Retrosheet): Saves from Save Situations})/{Relief (Retrosheet): Save Situations}"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "level": "team",
+    "name": "Pythagorean Losses",
+    "formula": "({Pitching: Wins}+{Pitching: Losses})*{Pitching: Runs allowed}^2/({Batting: Runs}^2+{Pitching: Runs allowed}^2)"
+  }
+]

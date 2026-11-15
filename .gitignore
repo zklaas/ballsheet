@@ -1,0 +1,7 @@
+
+# Kept out of releases by Classifier (provenance)
+__pycache__/
+*.pyc
+.classifier-review/
+early_poststats.json
+negro_postseason.json

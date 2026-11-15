@@ -1,0 +1,7 @@
+[
+  {
+    "level": "player",
+    "name": "Unearned Runs per Nine Innings",
+    "formula": "({Pitching: R}-{Pitching: ER})*27/{Pitching: Outs}"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "name": "Pitchers with three or more no-hitters",
+  "description": "Every no-hitter by the pitchers who threw three or more, at the age he threw it, with the runs his own team scored for him that day. Larry Corcoran's three (1880, 1882, 1884) and Cy Young's first (1897) came before the game logs begin in 1901.",
+  "source": "player-games",
+  "subjects": [
+    {
+      "id": 121597,
+      "name": "Nolan Ryan"
+    },
+    "Sandy Koufax",
+    "Bob Feller",
+    "Justin Verlander",
+    "Cy Young"
+  ],
+  "season": "career",
+  "where": [
+    "{Pitching: H} = 0",
+    "{Pitching: Outs} >= 27",
+    "{Pitching: CG} = 1"
+  ],
+  "x": "age",
+  "series": [
+    {
+      "name": "Run support",
+      "formula": "{Team: Runs}",
+      "panel": 1,
+      "format": "int"
+    }
+  ],
+  "panels": {
+    "1": {
+      "title": "Runs scored by his own team in the no-hitter",
+      "min": 0
+    }
+  }
+}

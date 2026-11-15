@@ -1,0 +1,5 @@
+{
+  "level": "player",
+  "name": "Slugging Average Against",
+  "formula": "{Pitching: TB} / {Pitching: AB}"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Toronto's Dying Hopes",
+  "source": "team-games",
+  "subjects": [
+    "American League East"
+  ],
+  "season": 2026,
+  "x": "game",
+  "running": true,
+  "series": [
+    {
+      "name": "Games Over .500",
+      "formula": "{Team: W} - {Team: L}",
+      "panel": 1,
+      "format": "int"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Runs Produced: the best 20 seasons since 1901",
+  "title": "The 20 best Runs Produced seasons since 1901, beside their Runs + RBI",
+  "description": "Every AL and NL player's season, 1901-2025, ranked by Runs Produced (R + RBI − HR), a player's seasons each counting on their own. Beside each Runs Produced bar, his Runs with his RBI stacked on top: the stack stands taller by his home runs, each being both a run and an RBI.",
+  "source": "league-seasons",
+  "season": 1901,
+  "season_to": 2025,
+  "rank_by": "{Batting: R} + {Batting: RBI} - {Batting: HR}",
+  "top": 20,
+  "x": "rank",
+  "chart": "bars",
+  "series": [
+    {
+      "name": "Runs Produced",
+      "formula": "{Batting: R} + {Batting: RBI} - {Batting: HR}",
+      "panel": 1,
+      "format": "int"
+    },
+    {
+      "name": "Runs",
+      "formula": "{Batting: R}",
+      "panel": 1,
+      "format": "int",
+      "stack": "Runs + RBI"
+    },
+    {
+      "name": "RBI",
+      "formula": "{Batting: RBI}",
+      "panel": 1,
+      "format": "int",
+      "stack": "Runs + RBI"
+    }
+  ],
+  "panels": {
+    "1": {
+      "title": "In the season"
+    }
+  }
+}

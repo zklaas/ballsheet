@@ -1,0 +1,205 @@
+{
+  "_about": "Postseason series before 1903, which the MLB Stats API doesn't carry. Transcribed from the Wikipedia article on each series (CC BY-SA), checked against each article's stated result. Where an article's summary table and its line scores disagree, the line score was used when a second source backs it (1885 game 3: Baseball-Reference's series run totals, 38-36; 1894 game 4: the line score's innings add up to 16-3). Each game is [team, runs, team, runs] with the home club second where the park was one club's home ground.",
+  "series": [
+    {
+      "season": 1884, "title": "World's Series", "format": "best of 3",
+      "teams": {"PRO": "Providence Grays", "NYM": "New York Metropolitans"},
+      "winner": "PRO", "winner_label": "champions",
+      "note": "Providence clinched in two games; the third was played anyway.",
+      "source": "Wikipedia: 1884 World Series",
+      "games": [
+        {"date": "1884-10-23", "score": ["PRO", 6, "NYM", 0], "venue": "Polo Grounds, New York"},
+        {"date": "1884-10-24", "score": ["PRO", 3, "NYM", 1], "venue": "Polo Grounds, New York", "note": "called after 7 innings (darkness)"},
+        {"date": "1884-10-25", "score": ["PRO", 12, "NYM", 2], "venue": "Polo Grounds, New York", "note": "called after 6 innings (cold)"}
+      ]
+    },
+    {
+      "season": 1885, "title": "World's Series", "format": "12 scheduled, 7 played",
+      "teams": {"CHI": "Chicago White Stockings", "STL": "St. Louis Browns"},
+      "winner": null,
+      "note": "Series tied 3–3–1, disputed: St. Louis held that the game 2 forfeit didn't count and claimed the title. The clubs split the prize.",
+      "source": "Wikipedia: 1885 World Series (dates of games 5 and 6 differ within the article: Oct 22-23 in its table, Oct 23-24 in its line scores)",
+      "games": [
+        {"date": "1885-10-14", "score": ["STL", 5, "CHI", 5], "venue": "West Side Park, Chicago", "note": "tie, called after 8 innings (darkness)"},
+        {"date": "1885-10-15", "score": ["CHI", 5, "STL", 4], "venue": "Sportsman's Park, St. Louis", "note": "forfeited to Chicago in the 6th, when St. Louis left the field to protest an umpire's ruling"},
+        {"date": "1885-10-16", "score": ["CHI", 4, "STL", 7], "venue": "Sportsman's Park, St. Louis"},
+        {"date": "1885-10-17", "score": ["CHI", 2, "STL", 3], "venue": "Sportsman's Park, St. Louis"},
+        {"date": "1885-10-22", "score": ["CHI", 9, "STL", 2], "venue": "Recreation Park, Pittsburgh", "note": "7 innings"},
+        {"date": "1885-10-23", "score": ["CHI", 9, "STL", 2], "venue": "American Park, Cincinnati"},
+        {"date": "1885-10-24", "score": ["CHI", 4, "STL", 13], "venue": "American Park, Cincinnati", "note": "8 innings"}
+      ]
+    },
+    {
+      "season": 1886, "title": "World's Series", "format": "best of 7",
+      "teams": {"CHI": "Chicago White Stockings", "STL": "St. Louis Browns"},
+      "winner": "STL", "winner_label": "champions",
+      "source": "Wikipedia: 1886 World Series",
+      "games": [
+        {"date": "1886-10-18", "score": ["STL", 0, "CHI", 6], "venue": "West Side Park, Chicago"},
+        {"date": "1886-10-19", "score": ["STL", 12, "CHI", 0], "venue": "West Side Park, Chicago", "note": "8 innings"},
+        {"date": "1886-10-20", "score": ["STL", 4, "CHI", 11], "venue": "West Side Park, Chicago", "note": "8 innings"},
+        {"date": "1886-10-21", "score": ["CHI", 5, "STL", 8], "venue": "Sportsman's Park, St. Louis", "note": "7 innings"},
+        {"date": "1886-10-22", "score": ["CHI", 3, "STL", 10], "venue": "Sportsman's Park, St. Louis", "note": "7 innings"},
+        {"date": "1886-10-23", "score": ["CHI", 3, "STL", 4], "venue": "Sportsman's Park, St. Louis", "note": "10 innings: Curt Welch's \"$15,000 slide\" won it"}
+      ]
+    },
+    {
+      "season": 1887, "title": "World's Series", "format": "15-game tour",
+      "teams": {"DTN": "Detroit Wolverines", "STL": "St. Louis Browns"},
+      "winner": "DTN", "winner_label": "champions",
+      "note": "Detroit clinched with its eighth win, in game 11; all 15 games were played.",
+      "source": "Wikipedia: 1887 World Series",
+      "games": [
+        {"date": "1887-10-10", "score": ["DTN", 1, "STL", 6], "venue": "Sportsman's Park, St. Louis"},
+        {"date": "1887-10-11", "score": ["DTN", 5, "STL", 3], "venue": "Sportsman's Park, St. Louis"},
+        {"date": "1887-10-12", "score": ["STL", 1, "DTN", 2], "venue": "Recreation Park, Detroit", "note": "13 innings"},
+        {"date": "1887-10-13", "score": ["STL", 0, "DTN", 8], "venue": "Recreation Park, Pittsburgh"},
+        {"date": "1887-10-14", "score": ["DTN", 2, "STL", 5], "venue": "Washington Park, Brooklyn"},
+        {"date": "1887-10-15", "score": ["STL", 0, "DTN", 9], "venue": "Polo Grounds, New York"},
+        {"date": "1887-10-17", "score": ["STL", 1, "DTN", 3], "venue": "Philadelphia Ball Park, Philadelphia"},
+        {"date": "1887-10-18", "score": ["STL", 2, "DTN", 9], "venue": "Union Ball Grounds, Boston"},
+        {"date": "1887-10-19", "score": ["STL", 2, "DTN", 4], "venue": "Jefferson Street Grounds, Philadelphia"},
+        {"date": "1887-10-21", "score": ["DTN", 4, "STL", 11], "venue": "Swampoodle Grounds, Washington"},
+        {"date": "1887-10-21", "score": ["STL", 3, "DTN", 13], "venue": "Oriole Park, Baltimore"},
+        {"date": "1887-10-22", "score": ["DTN", 1, "STL", 5], "venue": "Washington Park, Brooklyn", "note": "7 innings"},
+        {"date": "1887-10-24", "score": ["STL", 3, "DTN", 6], "venue": "Recreation Park, Detroit"},
+        {"date": "1887-10-25", "score": ["STL", 3, "DTN", 4], "venue": "West Side Park, Chicago"},
+        {"date": "1887-10-26", "score": ["DTN", 2, "STL", 9], "venue": "Sportsman's Park, St. Louis", "note": "11 innings"}
+      ]
+    },
+    {
+      "season": 1888, "title": "World's Series", "format": "10 games",
+      "teams": {"NYG": "New York Giants", "STL": "St. Louis Browns"},
+      "winner": "NYG", "winner_label": "champions",
+      "note": "New York won its sixth game in game 8; the last two were played anyway.",
+      "source": "Wikipedia: 1888 World Series",
+      "games": [
+        {"date": "1888-10-16", "score": ["STL", 1, "NYG", 2], "venue": "Polo Grounds, New York"},
+        {"date": "1888-10-17", "score": ["STL", 3, "NYG", 0], "venue": "Polo Grounds, New York"},
+        {"date": "1888-10-18", "score": ["STL", 2, "NYG", 4], "venue": "Polo Grounds, New York"},
+        {"date": "1888-10-19", "score": ["STL", 3, "NYG", 6], "venue": "Washington Park, Brooklyn"},
+        {"date": "1888-10-20", "score": ["STL", 4, "NYG", 6], "venue": "Polo Grounds, New York", "note": "8 innings"},
+        {"date": "1888-10-22", "score": ["STL", 5, "NYG", 12], "venue": "Philadelphia Baseball Grounds, Philadelphia", "note": "8 innings"},
+        {"date": "1888-10-24", "score": ["NYG", 5, "STL", 7], "venue": "Sportsman's Park, St. Louis", "note": "8 innings"},
+        {"date": "1888-10-25", "score": ["NYG", 11, "STL", 3], "venue": "Sportsman's Park, St. Louis"},
+        {"date": "1888-10-26", "score": ["NYG", 11, "STL", 14], "venue": "Sportsman's Park, St. Louis"},
+        {"date": "1888-10-27", "score": ["NYG", 7, "STL", 18], "venue": "Sportsman's Park, St. Louis"}
+      ]
+    },
+    {
+      "season": 1889, "title": "World's Series", "format": "first to 6 wins",
+      "teams": {"NYG": "New York Giants", "BRO": "Brooklyn Bridegrooms"},
+      "winner": "NYG", "winner_label": "champions",
+      "source": "Wikipedia: 1889 World Series",
+      "games": [
+        {"date": "1889-10-18", "score": ["BRO", 12, "NYG", 10], "venue": "New York"},
+        {"date": "1889-10-19", "score": ["NYG", 6, "BRO", 2], "venue": "Brooklyn"},
+        {"date": "1889-10-22", "score": ["BRO", 8, "NYG", 7], "venue": "New York", "note": "8 innings"},
+        {"date": "1889-10-23", "score": ["NYG", 7, "BRO", 10], "venue": "Brooklyn", "note": "6 innings"},
+        {"date": "1889-10-24", "score": ["NYG", 11, "BRO", 3], "venue": "Brooklyn"},
+        {"date": "1889-10-25", "score": ["BRO", 1, "NYG", 2], "venue": "New York", "note": "11 innings"},
+        {"date": "1889-10-26", "score": ["BRO", 7, "NYG", 11], "venue": "New York"},
+        {"date": "1889-10-28", "score": ["NYG", 16, "BRO", 7], "venue": "Brooklyn"},
+        {"date": "1889-10-29", "score": ["BRO", 2, "NYG", 3], "venue": "New York"}
+      ]
+    },
+    {
+      "season": 1890, "title": "World's Series", "format": "best of 7",
+      "teams": {"BRO": "Brooklyn Bridegrooms", "LOU": "Louisville Colonels"},
+      "winner": null,
+      "note": "Series tied 3–3–1: with the weather worsening, the clubs agreed game 7 would be the last and put a deciding game off to the spring.",
+      "source": "Wikipedia: 1890 World Series",
+      "games": [
+        {"date": "1890-10-17", "score": ["BRO", 9, "LOU", 0], "venue": "Louisville", "note": "8 innings"},
+        {"date": "1890-10-18", "score": ["BRO", 5, "LOU", 3], "venue": "Louisville"},
+        {"date": "1890-10-20", "score": ["BRO", 7, "LOU", 7], "venue": "Louisville", "note": "tie, 8 innings"},
+        {"date": "1890-10-21", "score": ["BRO", 4, "LOU", 5], "venue": "Louisville"},
+        {"date": "1890-10-25", "score": ["LOU", 2, "BRO", 7], "venue": "Brooklyn"},
+        {"date": "1890-10-27", "score": ["LOU", 9, "BRO", 8], "venue": "Brooklyn"},
+        {"date": "1890-10-28", "score": ["LOU", 6, "BRO", 2], "venue": "Brooklyn"}
+      ]
+    },
+    {
+      "season": 1892, "title": "Split-Season Championship", "format": "best of 9",
+      "teams": {"BSN": "Boston Beaneaters", "CLV": "Cleveland Spiders"},
+      "winner": "BSN", "winner_label": "champions",
+      "note": "First-half champion Boston against second-half champion Cleveland.",
+      "source": "Wikipedia: 1892 World Series",
+      "games": [
+        {"date": "1892-10-17", "score": ["BSN", 0, "CLV", 0], "venue": "League Park, Cleveland", "note": "tie, 11 innings, called for darkness"},
+        {"date": "1892-10-18", "score": ["BSN", 4, "CLV", 3], "venue": "League Park, Cleveland"},
+        {"date": "1892-10-19", "score": ["BSN", 3, "CLV", 2], "venue": "League Park, Cleveland"},
+        {"date": "1892-10-21", "score": ["CLV", 0, "BSN", 4], "venue": "South End Grounds, Boston"},
+        {"date": "1892-10-22", "score": ["CLV", 7, "BSN", 12], "venue": "South End Grounds, Boston"},
+        {"date": "1892-10-24", "score": ["CLV", 3, "BSN", 8], "venue": "South End Grounds, Boston"}
+      ]
+    },
+    {
+      "season": 1894, "title": "Temple Cup", "format": "best of 7",
+      "teams": {"NYG": "New York Giants", "BLN": "Baltimore Orioles"},
+      "winner": "NYG", "winner_label": "Temple Cup winners",
+      "note": "The National League's first- and second-place clubs.",
+      "source": "Wikipedia: 1894 Temple Cup",
+      "games": [
+        {"date": "1894-10-04", "score": ["NYG", 4, "BLN", 1], "venue": "Union Park, Baltimore"},
+        {"date": "1894-10-05", "score": ["NYG", 9, "BLN", 6], "venue": "Union Park, Baltimore"},
+        {"date": "1894-10-06", "score": ["BLN", 1, "NYG", 4], "venue": "Polo Grounds, New York"},
+        {"date": "1894-10-08", "score": ["BLN", 3, "NYG", 16], "venue": "Polo Grounds, New York", "note": "called after 8 innings (darkness)"}
+      ]
+    },
+    {
+      "season": 1895, "title": "Temple Cup", "format": "best of 7",
+      "teams": {"CLV": "Cleveland Spiders", "BLN": "Baltimore Orioles"},
+      "winner": "CLV", "winner_label": "Temple Cup winners",
+      "note": "The National League's first- and second-place clubs.",
+      "source": "Wikipedia: 1895 Temple Cup",
+      "games": [
+        {"date": "1895-10-02", "score": ["BLN", 4, "CLV", 5], "venue": "League Park, Cleveland"},
+        {"date": "1895-10-03", "score": ["BLN", 2, "CLV", 7], "venue": "League Park, Cleveland"},
+        {"date": "1895-10-05", "score": ["BLN", 1, "CLV", 7], "venue": "League Park, Cleveland"},
+        {"date": "1895-10-07", "score": ["CLV", 0, "BLN", 5], "venue": "Union Park, Baltimore"},
+        {"date": "1895-10-08", "score": ["CLV", 5, "BLN", 2], "venue": "Union Park, Baltimore"}
+      ]
+    },
+    {
+      "season": 1896, "title": "Temple Cup", "format": "best of 7",
+      "teams": {"BLN": "Baltimore Orioles", "CLV": "Cleveland Spiders"},
+      "winner": "BLN", "winner_label": "Temple Cup winners",
+      "note": "The National League's first- and second-place clubs.",
+      "source": "Wikipedia: 1896 Temple Cup",
+      "games": [
+        {"date": "1896-10-02", "score": ["CLV", 1, "BLN", 7], "venue": "Union Park, Baltimore"},
+        {"date": "1896-10-03", "score": ["CLV", 2, "BLN", 7], "venue": "Union Park, Baltimore", "note": "called on account of darkness"},
+        {"date": "1896-10-05", "score": ["CLV", 2, "BLN", 6], "venue": "Union Park, Baltimore"},
+        {"date": "1896-10-08", "score": ["BLN", 5, "CLV", 0], "venue": "League Park, Cleveland"}
+      ]
+    },
+    {
+      "season": 1897, "title": "Temple Cup", "format": "best of 7",
+      "teams": {"BSN": "Boston Beaneaters", "BLN": "Baltimore Orioles"},
+      "winner": "BLN", "winner_label": "Temple Cup winners",
+      "note": "The National League's first- and second-place clubs.",
+      "source": "Wikipedia: 1897 Temple Cup",
+      "games": [
+        {"date": "1897-10-04", "score": ["BLN", 12, "BSN", 13], "venue": "South End Grounds, Boston"},
+        {"date": "1897-10-05", "score": ["BLN", 13, "BSN", 11], "venue": "South End Grounds, Boston"},
+        {"date": "1897-10-06", "score": ["BLN", 8, "BSN", 3], "venue": "South End Grounds, Boston", "note": "called after 7 innings (rain)"},
+        {"date": "1897-10-10", "score": ["BSN", 11, "BLN", 12], "venue": "Union Park, Baltimore"},
+        {"date": "1897-10-11", "score": ["BSN", 3, "BLN", 9], "venue": "Union Park, Baltimore"}
+      ]
+    },
+    {
+      "season": 1900, "title": "Chronicle-Telegraph Cup", "format": "best of 5",
+      "teams": {"BRO": "Brooklyn Superbas", "PIT": "Pittsburgh Pirates"},
+      "winner": "BRO", "winner_label": "Chronicle-Telegraph Cup winners",
+      "note": "The National League's first- and second-place clubs.",
+      "source": "Wikipedia: Chronicle-Telegraph Cup (https://en.wikipedia.org/w/index.php?title=Chronicle-Telegraph_Cup&oldid=1342612841)",
+      "games": [
+        {"date": "1900-10-15", "score": ["BRO", 5, "PIT", 2], "venue": "Exposition Park, Pittsburgh"},
+        {"date": "1900-10-16", "score": ["BRO", 4, "PIT", 2], "venue": "Exposition Park, Pittsburgh"},
+        {"date": "1900-10-17", "score": ["BRO", 0, "PIT", 10], "venue": "Exposition Park, Pittsburgh"},
+        {"date": "1900-10-18", "score": ["BRO", 6, "PIT", 1], "venue": "Exposition Park, Pittsburgh"}
+      ]
+    }
+  ]
+}

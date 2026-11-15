@@ -1,0 +1,15 @@
+{
+  "name": "George Brett's 1980 chase for .400",
+  "description": "Brett's running hit total and batting average through the 1980 season. He was at .400 as late as September 19 and finished at .390.",
+  "source": "player-games",
+  "subjects": ["George Brett"],
+  "season": 1980,
+  "x": "date",
+  "running": true,
+  "series": [
+    {"name": "Hits", "formula": "{Batting: H}", "panel": 1, "format": "int"},
+    {"name": "Batting average", "formula": "{Batting: H} / {Batting: AB}", "panel": 2, "format": "rate"}
+  ],
+  "panels": {"1": {"title": "Hits, season to date"}, "2": {"title": "Batting average, season to date", "min": 0.2, "max": 0.45}},
+  "reference_lines": [{"panel": 2, "value": 0.4, "label": ".400"}]
+}

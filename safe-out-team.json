@@ -1,0 +1,72 @@
+[
+  {
+    "level": "team",
+    "name": "Reached 1st per Inning",
+    "formula": "{Safe/Out (Retrosheet): Reached 1st}*3/{Safe/Out (Retrosheet): Outs}"
+  },
+  {
+    "level": "team",
+    "name": "Reached 2nd per Inning",
+    "formula": "{Safe/Out (Retrosheet): Reached 2nd}*3/{Safe/Out (Retrosheet): Outs}"
+  },
+  {
+    "level": "team",
+    "name": "Reached 3rd per Inning",
+    "formula": "{Safe/Out (Retrosheet): Reached 3rd}*3/{Safe/Out (Retrosheet): Outs}"
+  },
+  {
+    "level": "team",
+    "name": "Scored per Inning",
+    "formula": "{Safe/Out (Retrosheet): Scored}*3/{Safe/Out (Retrosheet): Outs}"
+  },
+  {
+    "level": "team",
+    "name": "On Base to Outs",
+    "formula": "{Safe/Out (Retrosheet): Reached 1st}/{Safe/Out (Retrosheet): Outs}"
+  },
+  {
+    "level": "team",
+    "name": "Scored to Outs",
+    "formula": "{Safe/Out (Retrosheet): Scored}/{Safe/Out (Retrosheet): Outs}"
+  },
+  {
+    "level": "team",
+    "name": "Scored to On Base",
+    "formula": "{Safe/Out (Retrosheet): Scored}/{Safe/Out (Retrosheet): Reached 1st}"
+  },
+  {
+    "level": "team",
+    "name": "Reached 1st per Inning Allowed",
+    "formula": "{Safe/Out Allowed (Retrosheet): Reached 1st}*3/{Safe/Out Allowed (Retrosheet): Outs}"
+  },
+  {
+    "level": "team",
+    "name": "Reached 2nd per Inning Allowed",
+    "formula": "{Safe/Out Allowed (Retrosheet): Reached 2nd}*3/{Safe/Out Allowed (Retrosheet): Outs}"
+  },
+  {
+    "level": "team",
+    "name": "Reached 3rd per Inning Allowed",
+    "formula": "{Safe/Out Allowed (Retrosheet): Reached 3rd}*3/{Safe/Out Allowed (Retrosheet): Outs}"
+  },
+  {
+    "level": "team",
+    "name": "Scored per Inning Allowed",
+    "formula": "{Safe/Out Allowed (Retrosheet): Scored}*3/{Safe/Out Allowed (Retrosheet): Outs}"
+  },
+  {
+    "level": "team",
+    "name": "On Base to Outs Allowed",
+    "formula": "{Safe/Out Allowed (Retrosheet): Reached 1st}/{Safe/Out Allowed (Retrosheet): Outs}"
+  },
+  {
+    "level": "team",
+    "name": "Scored to Outs Allowed",
+    "formula": "{Safe/Out Allowed (Retrosheet): Scored}/{Safe/Out Allowed (Retrosheet): Outs}"
+  },
+  {
+    "level": "team",
+    "name": "Scored to On Base Allowed",
+    "formula": "{Safe/Out Allowed (Retrosheet): Scored}/{Safe/Out Allowed (Retrosheet): Reached 1st}"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "level": "player",
+  "name": "On-Base Average Against",
+  "formula": "({Pitching: H} + {Pitching: BB} + {Pitching: HBP}) / ({Pitching: AB} + {Pitching: BB} + {Pitching: HBP} + {Pitching: SF})"
+}

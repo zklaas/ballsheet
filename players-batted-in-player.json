@@ -1,0 +1,22 @@
+[
+  {
+    "level": "player",
+    "name": "Share Driven In Himself",
+    "formula": "{Batted In (Retrosheet): Drove In Himself}/{Batted In (Retrosheet): Runs Batted In}"
+  },
+  {
+    "level": "player",
+    "name": "Share Driven In from 1st",
+    "formula": "{Batted In (Retrosheet): Drove In from 1st}/{Batted In (Retrosheet): Runs Batted In}"
+  },
+  {
+    "level": "player",
+    "name": "Share Driven In from 2nd",
+    "formula": "{Batted In (Retrosheet): Drove In from 2nd}/{Batted In (Retrosheet): Runs Batted In}"
+  },
+  {
+    "level": "player",
+    "name": "Share Driven In from 3rd",
+    "formula": "{Batted In (Retrosheet): Drove In from 3rd}/{Batted In (Retrosheet): Runs Batted In}"
+  }
+]

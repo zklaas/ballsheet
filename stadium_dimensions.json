@@ -1,0 +1,5896 @@
+{
+ "about": "Ballpark fence distances by season, transcribed from English Wikipedia articles (the article and revision are given for each park). Wikipedia text is licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); this file is shared under the same licence.",
+ "license": "CC BY-SA 4.0",
+ "angles": "degrees from the line to centre field, negative toward third base",
+ "parks": {
+  "3164": {
+   "article": "Oriole Park",
+   "revid": 1372223424,
+   "eras": [
+    {
+     "from": 1901,
+     "to": 1902,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       322.0
+      ],
+      [
+       "CF",
+       0,
+       475.0
+      ],
+      [
+       "RF line",
+       45,
+       318.0
+      ]
+     ],
+     "note": "Oriole Park IV, as the Baltimore Sun gave it in 1914"
+    }
+   ]
+  },
+  "3128": {
+   "article": "Huntington Avenue Grounds",
+   "revid": 1372204570,
+   "eras": [
+    {
+     "from": 1901,
+     "to": 1907,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       350.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       440.0
+      ],
+      [
+       "CF",
+       0,
+       530.0
+      ],
+      [
+       "RF line",
+       45,
+       280.0
+      ]
+     ],
+     "note": "1901 distances"
+    },
+    {
+     "from": 1908,
+     "to": 1911,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       350.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       440.0
+      ],
+      [
+       "CF",
+       0,
+       635.0
+      ],
+      [
+       "RF line",
+       45,
+       320.0
+      ]
+     ],
+     "note": "1908 distances"
+    }
+   ]
+  },
+  "3147": {
+   "article": "South End Grounds",
+   "revid": 1372231528,
+   "eras": [
+    {
+     "from": 1901,
+     "to": 1914,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       250.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       445.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       450.0
+      ],
+      [
+       "CF",
+       0,
+       440.0
+      ],
+      [
+       "RCF",
+       22.5,
+       440.0
+      ],
+      [
+       "RF line",
+       45,
+       255.0
+      ]
+     ],
+     "note": "South End Grounds III"
+    }
+   ]
+  },
+  "3150": {
+   "article": "Washington Park (baseball)",
+   "revid": 1376179055,
+   "eras": [
+    {
+     "from": 1901,
+     "to": 1907,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       335.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       500.0
+      ],
+      [
+       "CF",
+       0,
+       445.0
+      ],
+      [
+       "RCF",
+       22.5,
+       300.0
+      ],
+      [
+       "RF line",
+       45,
+       295.0
+      ]
+     ],
+     "note": "1898 distances (right field 1899)"
+    },
+    {
+     "from": 1908,
+     "to": 1912,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       375.95
+      ],
+      [
+       "LCF",
+       -22.5,
+       443.5
+      ],
+      [
+       "CF",
+       0,
+       424.7
+      ],
+      [
+       "RF line",
+       45,
+       301.84
+      ]
+     ],
+     "note": "1908 distances"
+    }
+   ]
+  },
+  "3169": {
+   "article": "West Side Park",
+   "revid": 1378610336,
+   "eras": [
+    {
+     "from": 1901,
+     "to": 1915,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       340.0
+      ],
+      [
+       "CF",
+       0,
+       560.0
+      ],
+      [
+       "RF line",
+       45,
+       340.0
+      ]
+     ],
+     "note": "West Side Park II, as laid out in 1893"
+    }
+   ]
+  },
+  "3131": {
+   "article": "League Park",
+   "revid": 1373475496,
+   "eras": [
+    {
+     "from": 1901,
+     "to": 1946,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       375.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       415.0
+      ],
+      [
+       "Deep CF",
+       -7.0,
+       460.0
+      ],
+      [
+       "CF",
+       0,
+       420.0
+      ],
+      [
+       "RCF",
+       22.5,
+       340.0
+      ],
+      [
+       "RF line",
+       45,
+       290.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3140": {
+   "article": "Polo Grounds",
+   "revid": 1379229018,
+   "eras": [
+    {
+     "from": 1901,
+     "to": 1910,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       335.0
+      ],
+      [
+       "CF",
+       0,
+       500.0
+      ],
+      [
+       "RF line",
+       45,
+       335.0
+      ]
+     ],
+     "note": "1890–1911 (not posted)"
+    },
+    {
+     "from": 1911,
+     "to": 1922,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       277.0
+      ],
+      [
+       "CF",
+       0,
+       433.0
+      ],
+      [
+       "RF line",
+       45,
+       258.0
+      ]
+     ],
+     "note": "1911–1922 (not posted)"
+    },
+    {
+     "from": 1923,
+     "to": 1963,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       279.0
+      ],
+      [
+       "Shallow LCF",
+       -37.5,
+       315.0
+      ],
+      [
+       "Medium LCF",
+       -30,
+       360.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       414.0
+      ],
+      [
+       "Deep LCF",
+       -12.0,
+       447.0
+      ],
+      [
+       "CF",
+       0,
+       483.0
+      ],
+      [
+       "Deep RCF",
+       12.0,
+       449.0
+      ],
+      [
+       "RCF",
+       22.5,
+       395.0
+      ],
+      [
+       "Medium RCF",
+       30,
+       339.0
+      ],
+      [
+       "Shallow RCF",
+       37.5,
+       294.0
+      ],
+      [
+       "RF line",
+       45,
+       257.3
+      ]
+     ],
+     "note": "1923–1957, 1962–1963"
+    }
+   ]
+  },
+  "3118": {
+   "article": "Columbia Park",
+   "revid": 1372077114,
+   "eras": [
+    {
+     "from": 1901,
+     "to": 1908,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       340.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       392.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       440.0
+      ],
+      [
+       "CF",
+       0,
+       396.0
+      ],
+      [
+       "RCF",
+       22.5,
+       323.0
+      ],
+      [
+       "RF line",
+       45,
+       280.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3113": {
+   "article": "Baker Bowl",
+   "revid": 1375146474,
+   "eras": [
+    {
+     "from": 1901,
+     "to": 1938,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       341.0
+      ],
+      [
+       "CF",
+       0,
+       408.0
+      ],
+      [
+       "RCF",
+       22.5,
+       300.0
+      ],
+      [
+       "RF line",
+       45,
+       280.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3124": {
+   "article": "Exposition Park (Pittsburgh)",
+   "revid": 1372151354,
+   "eras": [
+    {
+     "from": 1901,
+     "to": 1908,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       380.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RF line",
+       45,
+       327.0
+      ]
+     ],
+     "note": "as the Pittsburgh Post gave them in 1909"
+    }
+   ]
+  },
+  "3141": {
+   "article": "Robison Field",
+   "revid": 1372225618,
+   "eras": [
+    {
+     "from": 1901,
+     "to": 1919,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       380.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       400.0
+      ],
+      [
+       "CF",
+       0,
+       435.0
+      ],
+      [
+       "RCF",
+       22.5,
+       320.0
+      ],
+      [
+       "RF line",
+       45,
+       290.0
+      ]
+     ],
+     "note": "1909 distances (right field line 1893)"
+    }
+   ]
+  },
+  "3138": {
+   "article": "Palace of the Fans",
+   "revid": 1372204263,
+   "eras": [
+    {
+     "from": 1902,
+     "to": 1911,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       360.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       418.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       450.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3127": {
+   "article": "Hilltop Park",
+   "revid": 1372186833,
+   "eras": [
+    {
+     "from": 1903,
+     "to": 1912,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       365.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       378.0
+      ],
+      [
+       "CF",
+       0,
+       420.0
+      ],
+      [
+       "RCF",
+       22.5,
+       424.0
+      ],
+      [
+       "RF line",
+       45,
+       385.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3143": {
+   "article": "Shibe Park",
+   "revid": 1376110848,
+   "eras": [
+    {
+     "from": 1909,
+     "to": 1924,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       378.0
+      ],
+      [
+       "CF",
+       0,
+       515.0
+      ],
+      [
+       "RF line",
+       45,
+       340.0
+      ]
+     ],
+     "note": "1909 (left field as of late 1909; centre-field corner)"
+    },
+    {
+     "from": 1925,
+     "to": 1949,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       334.0
+      ],
+      [
+       "CF",
+       0,
+       468.0
+      ],
+      [
+       "RF line",
+       45,
+       331.0
+      ]
+     ],
+     "note": "1925 (centre-field corner)"
+    },
+    {
+     "from": 1950,
+     "to": 1967,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       334.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       420.0
+      ],
+      [
+       "CF",
+       0,
+       447.0
+      ],
+      [
+       "Deep RCF",
+       15,
+       405.0
+      ],
+      [
+       "RF line",
+       45,
+       329.0
+      ]
+     ],
+     "note": "1950"
+    },
+    {
+     "from": 1968,
+     "to": 1970,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       334.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       387.0
+      ],
+      [
+       "CF",
+       0,
+       410.0
+      ],
+      [
+       "Deep RCF",
+       15,
+       390.0
+      ],
+      [
+       "RF line",
+       45,
+       329.0
+      ]
+     ],
+     "note": "1968"
+    }
+   ]
+  },
+  "3125": {
+   "article": "Forbes Field",
+   "revid": 1372176812,
+   "eras": [
+    {
+     "from": 1909,
+     "to": 1913,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       360.0
+      ],
+      [
+       "CF",
+       0,
+       462.0
+      ],
+      [
+       "RF line",
+       45,
+       376.0
+      ]
+     ],
+     "note": "original distances"
+    },
+    {
+     "from": 1914,
+     "to": 1946,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       365.0
+      ],
+      [
+       "CF",
+       0,
+       462.0
+      ],
+      [
+       "RF line",
+       45,
+       376.0
+      ]
+     ],
+     "note": "left field 365 ft by 1914; centre and right as originally"
+    },
+    {
+     "from": 1947,
+     "to": 1953,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       335.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       376.0
+      ],
+      [
+       "CF",
+       0,
+       457.0
+      ],
+      [
+       "RCF",
+       22.5,
+       408.0
+      ],
+      [
+       "RF line",
+       45,
+       375.0
+      ]
+     ],
+     "note": "1947: bullpens fenced in at the foot of the left-field scoreboard, cutting 30 ft from left"
+    },
+    {
+     "from": 1954,
+     "to": 1969,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       365.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       406.0
+      ],
+      [
+       "CF",
+       0,
+       457.0
+      ],
+      [
+       "RCF",
+       22.5,
+       408.0
+      ],
+      [
+       "RF line",
+       45,
+       375.0
+      ]
+     ],
+     "note": "1954–1970"
+    }
+   ]
+  },
+  "3168": {
+   "article": "Sportsman's Park",
+   "revid": 1372232220,
+   "eras": [
+    {
+     "from": 1909,
+     "to": 1966,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       351.0
+      ],
+      [
+       "LF",
+       -33.75,
+       358.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       379.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       400.0
+      ],
+      [
+       "Deep LCF corner",
+       -5.0,
+       426.0
+      ],
+      [
+       "CF",
+       0,
+       422.0
+      ],
+      [
+       "Deep RCF",
+       15,
+       405.0
+      ],
+      [
+       "RCF",
+       22.5,
+       354.0
+      ],
+      [
+       "RF",
+       33.75,
+       322.0
+      ],
+      [
+       "RF line",
+       45,
+       310.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3119": {
+   "article": "Comiskey Park",
+   "revid": 1379270087,
+   "eras": [
+    {
+     "from": 1910,
+     "to": 1985,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       363.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       382.0
+      ],
+      [
+       "CF",
+       0,
+       420.0
+      ],
+      [
+       "RCF",
+       22.5,
+       382.0
+      ],
+      [
+       "RF line",
+       45,
+       363.0
+      ]
+     ],
+     "note": "1910"
+    },
+    {
+     "from": 1986,
+     "to": 1990,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       347.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       382.0
+      ],
+      [
+       "CF",
+       0,
+       409.0
+      ],
+      [
+       "RCF",
+       22.5,
+       382.0
+      ],
+      [
+       "RF line",
+       45,
+       347.0
+      ]
+     ],
+     "note": "1986"
+    }
+   ]
+  },
+  "3126": {
+   "article": "Griffith Stadium",
+   "revid": 1379220233,
+   "eras": [
+    {
+     "from": 1911,
+     "to": 1949,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       405.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       391.0
+      ],
+      [
+       "CF",
+       0,
+       421.0
+      ],
+      [
+       "RCF",
+       22.5,
+       373.0
+      ],
+      [
+       "RF line",
+       45,
+       320.0
+      ]
+     ],
+     "note": "before 1950 (left field as reported from 1938); centre and right as finally"
+    },
+    {
+     "from": 1950,
+     "to": 1961,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       388.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       372.0
+      ],
+      [
+       "CF",
+       0,
+       421.0
+      ],
+      [
+       "RCF",
+       22.5,
+       373.0
+      ],
+      [
+       "RF line",
+       45,
+       320.0
+      ]
+     ],
+     "note": "from 1950, when left field was brought in"
+    }
+   ]
+  },
+  "3": {
+   "article": "Fenway Park",
+   "revid": 1376280796,
+   "eras": [
+    {
+     "from": 1912,
+     "to": 1933,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       320.0
+      ],
+      [
+       "CF",
+       0,
+       468.0
+      ],
+      [
+       "RF line",
+       45,
+       358.0
+      ]
+     ],
+     "note": "before the 1934 rebuilding",
+     "walls": [
+      {
+       "from": -45,
+       "to": -15,
+       "height": 25.0,
+       "label": "left-field wall",
+       "note": "25 ft, with Duffy's Cliff, a 10-ft incline, in front of it from the left-field pole to the flagpole"
+      }
+     ]
+    },
+    {
+     "from": 1934,
+     "to": 1939,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       312.0
+      ],
+      [
+       "CF",
+       0,
+       420.0
+      ],
+      [
+       "RF line",
+       45,
+       334.0
+      ]
+     ],
+     "note": "1934 rebuilding",
+     "walls": [
+      {
+       "from": -45,
+       "to": -15,
+       "height": 37.17,
+       "label": "Green Monster",
+       "note": "37 ft 2 in, from the left-field pole to the yellow line by the flagpole (379 ft)"
+      }
+     ]
+    },
+    {
+     "from": 1940,
+     "to": 1994,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       315.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       379.0
+      ],
+      [
+       "CF",
+       0,
+       389.75
+      ],
+      [
+       "Deep RCF",
+       15,
+       420.0
+      ],
+      [
+       "RCF",
+       22.5,
+       380.0
+      ],
+      [
+       "RF line",
+       45,
+       302.0
+      ]
+     ],
+     "note": "from 1940 (the right-field bullpens), left field as posted (315) until 1995; otherwise today's distances",
+     "walls": [
+      {
+       "from": -45,
+       "to": -15,
+       "height": 37.17,
+       "label": "Green Monster",
+       "note": "37 ft 2 in, from the left-field pole to the yellow line by the flagpole (379 ft)"
+      }
+     ]
+    },
+    {
+     "from": 1995,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       310.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       379.0
+      ],
+      [
+       "CF",
+       0,
+       389.75
+      ],
+      [
+       "Deep RCF",
+       15,
+       420.0
+      ],
+      [
+       "RCF",
+       22.5,
+       380.0
+      ],
+      [
+       "RF line",
+       45,
+       302.0
+      ]
+     ],
+     "note": "current (left field remeasured at 310 in 1995)",
+     "walls": [
+      {
+       "from": -45,
+       "to": -15,
+       "height": 37.17,
+       "label": "Green Monster",
+       "note": "37 ft 2 in, from the left-field pole to the yellow line by the flagpole (379 ft)"
+      }
+     ]
+    }
+   ],
+   "also": [
+    {
+     "article": "Green Monster",
+     "revid": 1376360020
+    }
+   ]
+  },
+  "3120": {
+   "article": "Crosley Field",
+   "revid": 1372078480,
+   "eras": [
+    {
+     "from": 1912,
+     "to": 1957,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       360.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       380.0
+      ],
+      [
+       "CF",
+       0,
+       420.0
+      ],
+      [
+       "RCF",
+       22.5,
+       383.0
+      ],
+      [
+       "RF line",
+       45,
+       360.0
+      ]
+     ],
+     "note": "1912"
+    },
+    {
+     "from": 1958,
+     "to": 1970,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       328.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       380.0
+      ],
+      [
+       "CF",
+       0,
+       387.0
+      ],
+      [
+       "RCF",
+       22.5,
+       383.0
+      ],
+      [
+       "RF line",
+       45,
+       366.0
+      ]
+     ],
+     "note": "1958"
+    }
+   ]
+  },
+  "6": {
+   "article": "Tiger Stadium (Detroit)",
+   "revid": 1379484942,
+   "eras": [
+    {
+     "from": 1912,
+     "to": 1999,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       340.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       365.0
+      ],
+      [
+       "CF",
+       0,
+       440.0
+      ],
+      [
+       "RCF",
+       22.5,
+       370.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3121": {
+   "article": "Ebbets Field",
+   "revid": 1378347217,
+   "eras": [
+    {
+     "from": 1913,
+     "to": 1930,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       419.0
+      ],
+      [
+       "CF",
+       0,
+       477.0
+      ],
+      [
+       "RF line",
+       45,
+       301.0
+      ]
+     ],
+     "note": "original (estimates)"
+    },
+    {
+     "from": 1931,
+     "to": 1947,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       348.0
+      ],
+      [
+       "LF corner",
+       -38,
+       357.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       365.0
+      ],
+      [
+       "Deep LCF",
+       -12.0,
+       407.0
+      ],
+      [
+       "Deep RCF corner",
+       5.0,
+       389.0
+      ],
+      [
+       "Deep RCF notch",
+       10.0,
+       399.0
+      ],
+      [
+       "RCF",
+       22.5,
+       344.0
+      ],
+      [
+       "RCF scoreboard",
+       32.0,
+       318.0
+      ],
+      [
+       "RF line",
+       45,
+       297.0
+      ]
+     ],
+     "note": "1931–1947"
+    },
+    {
+     "from": 1948,
+     "to": 1957,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       348.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       351.0
+      ],
+      [
+       "Deep LCF",
+       -12.0,
+       393.0
+      ],
+      [
+       "Deep RCF corner",
+       5.0,
+       376.0
+      ],
+      [
+       "Deep RCF notch",
+       10.0,
+       399.0
+      ],
+      [
+       "RCF",
+       22.5,
+       344.0
+      ],
+      [
+       "RCF scoreboard",
+       32.0,
+       318.0
+      ],
+      [
+       "RF line",
+       45,
+       297.0
+      ]
+     ],
+     "note": "1948–1957"
+    }
+   ]
+  },
+  "3115": {
+   "article": "Braves Field",
+   "revid": 1372863471,
+   "eras": [
+    {
+     "from": 1915,
+     "to": 1915,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       402.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       402.5
+      ],
+      [
+       "CF",
+       0,
+       440.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       402.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1916,
+     "to": 1920,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       402.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       396.0
+      ],
+      [
+       "CF",
+       0,
+       440.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       375.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1921,
+     "to": 1921,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       375.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       402.4
+      ],
+      [
+       "CF",
+       0,
+       440.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       365.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1922,
+     "to": 1925,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       404.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       404.0
+      ],
+      [
+       "CF",
+       0,
+       440.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       365.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1926,
+     "to": 1927,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       403.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       402.5
+      ],
+      [
+       "CF",
+       0,
+       440.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       365.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1928,
+     "to": 1928,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       353.5
+      ],
+      [
+       "LCF",
+       -22.5,
+       330.0
+      ],
+      [
+       "CF",
+       0,
+       387.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       364.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1929,
+     "to": 1929,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       353.5
+      ],
+      [
+       "LCF",
+       -22.5,
+       359.0
+      ],
+      [
+       "CF",
+       0,
+       387.2
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       297.75
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1930,
+     "to": 1930,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       340.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       359.0
+      ],
+      [
+       "CF",
+       0,
+       394.5
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       297.75
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1931,
+     "to": 1932,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       353.67
+      ],
+      [
+       "LCF",
+       -22.5,
+       359.0
+      ],
+      [
+       "CF",
+       0,
+       387.25
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       297.9
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1933,
+     "to": 1933,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       359.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       359.0
+      ],
+      [
+       "CF",
+       0,
+       417.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       364.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1934,
+     "to": 1935,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       353.67
+      ],
+      [
+       "LCF",
+       -22.5,
+       359.0
+      ],
+      [
+       "CF",
+       0,
+       417.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       364.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1936,
+     "to": 1936,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       368.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       359.0
+      ],
+      [
+       "CF",
+       0,
+       426.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       297.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1937,
+     "to": 1937,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       368.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       359.0
+      ],
+      [
+       "CF",
+       0,
+       407.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       376.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1938,
+     "to": 1938,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       368.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       359.0
+      ],
+      [
+       "CF",
+       0,
+       407.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       378.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1939,
+     "to": 1939,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       368.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       359.0
+      ],
+      [
+       "CF",
+       0,
+       408.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       378.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1940,
+     "to": 1940,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       350.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       359.0
+      ],
+      [
+       "CF",
+       0,
+       385.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       350.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1941,
+     "to": 1941,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       337.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       359.0
+      ],
+      [
+       "CF",
+       0,
+       401.0
+      ],
+      [
+       "RCF",
+       22.5,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       350.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1942,
+     "to": 1942,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       334.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       365.0
+      ],
+      [
+       "CF",
+       0,
+       375.0
+      ],
+      [
+       "RCF",
+       22.5,
+       362.0
+      ],
+      [
+       "RF line",
+       45,
+       350.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1943,
+     "to": 1943,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       340.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       355.0
+      ],
+      [
+       "CF",
+       0,
+       370.0
+      ],
+      [
+       "RCF",
+       22.5,
+       355.0
+      ],
+      [
+       "RF line",
+       45,
+       340.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1944,
+     "to": 1944,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       337.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       355.0
+      ],
+      [
+       "CF",
+       0,
+       390.0
+      ],
+      [
+       "RCF",
+       22.5,
+       355.0
+      ],
+      [
+       "RF line",
+       45,
+       340.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1945,
+     "to": 1945,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       337.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       355.0
+      ],
+      [
+       "CF",
+       0,
+       380.0
+      ],
+      [
+       "RCF",
+       22.5,
+       355.0
+      ],
+      [
+       "RF line",
+       45,
+       320.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1946,
+     "to": 1946,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       337.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       355.0
+      ],
+      [
+       "CF",
+       0,
+       370.0
+      ],
+      [
+       "RCF",
+       22.5,
+       355.0
+      ],
+      [
+       "RF line",
+       45,
+       320.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1947,
+     "to": 1947,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       337.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       355.0
+      ],
+      [
+       "CF",
+       0,
+       390.0
+      ],
+      [
+       "RCF",
+       22.5,
+       355.0
+      ],
+      [
+       "RF line",
+       45,
+       320.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    },
+    {
+     "from": 1948,
+     "to": 1952,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       337.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       355.0
+      ],
+      [
+       "CF",
+       0,
+       390.0
+      ],
+      [
+       "RCF",
+       22.5,
+       355.0
+      ],
+      [
+       "RF line",
+       45,
+       319.0
+      ]
+     ],
+     "note": "Wikipedia's year-by-year table (the opening-day figure where a season lists two)"
+    }
+   ]
+  },
+  "17": {
+   "article": "Wrigley Field",
+   "revid": 1377918987,
+   "eras": [
+    {
+     "from": 1916,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       355.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       368.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       368.0
+      ],
+      [
+       "RF line",
+       45,
+       353.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "9": {
+   "article": "Yankee Stadium (1923)",
+   "revid": 1377411197,
+   "eras": [
+    {
+     "from": 1923,
+     "to": 1923,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       257.0
+      ],
+      [
+       "CF",
+       0,
+       498.0
+      ],
+      [
+       "RF line",
+       45,
+       257.5
+      ]
+     ],
+     "note": "1923"
+    },
+    {
+     "from": 1924,
+     "to": 1936,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       281.0
+      ],
+      [
+       "LF",
+       -33.75,
+       395.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       460.0
+      ],
+      [
+       "CF",
+       0,
+       490.0
+      ],
+      [
+       "RCF",
+       22.5,
+       429.0
+      ],
+      [
+       "RF",
+       33.75,
+       350.0
+      ],
+      [
+       "RF line",
+       45,
+       295.0
+      ]
+     ],
+     "note": "1924"
+    },
+    {
+     "from": 1937,
+     "to": 1975,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       301.0
+      ],
+      [
+       "LF",
+       -33.75,
+       402.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       457.0
+      ],
+      [
+       "CF",
+       0,
+       461.0
+      ],
+      [
+       "RCF",
+       22.5,
+       407.0
+      ],
+      [
+       "RF",
+       33.75,
+       367.0
+      ],
+      [
+       "RF line",
+       45,
+       296.0
+      ]
+     ],
+     "note": "1937 (first figure where two are given)"
+    },
+    {
+     "from": 1976,
+     "to": 1984,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       312.0
+      ],
+      [
+       "LF",
+       -33.75,
+       387.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       430.0
+      ],
+      [
+       "CF",
+       0,
+       417.0
+      ],
+      [
+       "RCF",
+       22.5,
+       385.0
+      ],
+      [
+       "RF",
+       33.75,
+       353.0
+      ],
+      [
+       "RF line",
+       45,
+       310.0
+      ]
+     ],
+     "note": "1976"
+    },
+    {
+     "from": 1985,
+     "to": 1987,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       312.0
+      ],
+      [
+       "LF",
+       -33.75,
+       379.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       411.0
+      ],
+      [
+       "CF",
+       0,
+       410.0
+      ],
+      [
+       "RCF",
+       22.5,
+       385.0
+      ],
+      [
+       "RF",
+       33.75,
+       353.0
+      ],
+      [
+       "RF line",
+       45,
+       310.0
+      ]
+     ],
+     "note": "1985"
+    },
+    {
+     "from": 1988,
+     "to": 2008,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       318.0
+      ],
+      [
+       "LF",
+       -33.75,
+       379.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       399.0
+      ],
+      [
+       "CF",
+       0,
+       408.0
+      ],
+      [
+       "RCF",
+       22.5,
+       385.0
+      ],
+      [
+       "RF",
+       33.75,
+       353.0
+      ],
+      [
+       "RF line",
+       45,
+       314.0
+      ]
+     ],
+     "note": "1988"
+    }
+   ]
+  },
+  "3116": {
+   "article": "Cleveland Stadium",
+   "revid": 1372955954,
+   "eras": [
+    {
+     "from": 1932,
+     "to": 1993,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       322.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       385.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       385.0
+      ],
+      [
+       "RF line",
+       45,
+       322.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "23": {
+   "article": "Milwaukee County Stadium",
+   "revid": 1373618962,
+   "eras": [
+    {
+     "from": 1953,
+     "to": 2000,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       315.0
+      ],
+      [
+       "LF",
+       -33.75,
+       362.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       382.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       392.0
+      ],
+      [
+       "CF",
+       0,
+       402.0
+      ],
+      [
+       "Deep RCF",
+       15,
+       392.0
+      ],
+      [
+       "RCF",
+       22.5,
+       382.0
+      ],
+      [
+       "RF",
+       33.75,
+       362.0
+      ],
+      [
+       "RF line",
+       45,
+       315.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3134": {
+   "article": "Baltimore Memorial Stadium",
+   "revid": 1379214788,
+   "eras": [
+    {
+     "from": 1954,
+     "to": 1979,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       309.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       446.0
+      ],
+      [
+       "CF",
+       0,
+       445.0
+      ],
+      [
+       "RCF",
+       22.5,
+       446.0
+      ],
+      [
+       "RF line",
+       45,
+       309.0
+      ]
+     ],
+     "note": "1954"
+    },
+    {
+     "from": 1980,
+     "to": 1991,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       309.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       378.0
+      ],
+      [
+       "CF",
+       0,
+       405.0
+      ],
+      [
+       "RCF",
+       22.5,
+       378.0
+      ],
+      [
+       "RF line",
+       45,
+       309.0
+      ]
+     ],
+     "note": "centre field as from 1980, the alleys as in 1990"
+    }
+   ]
+  },
+  "3137": {
+   "article": "Municipal Stadium (Kansas City, Missouri)",
+   "revid": 1372217632,
+   "eras": [
+    {
+     "from": 1955,
+     "to": 1972,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       369.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       408.0
+      ],
+      [
+       "CF",
+       0,
+       421.0
+      ],
+      [
+       "RCF",
+       22.5,
+       382.0
+      ],
+      [
+       "RF line",
+       45,
+       338.0
+      ]
+     ],
+     "note": "1972 (Wikipedia gives 1923 and 1972)"
+    }
+   ]
+  },
+  "3142": {
+   "article": "Seals Stadium",
+   "revid": 1372229078,
+   "eras": [
+    {
+     "from": 1958,
+     "to": 1958,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       361.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       364.0
+      ],
+      [
+       "CF",
+       0,
+       410.0
+      ],
+      [
+       "RCF",
+       22.5,
+       397.0
+      ],
+      [
+       "RF line",
+       45,
+       348.0
+      ]
+     ],
+     "note": "1958"
+    },
+    {
+     "from": 1959,
+     "to": 1959,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       361.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       364.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       397.0
+      ],
+      [
+       "RF line",
+       45,
+       348.0
+      ]
+     ],
+     "note": "1959"
+    }
+   ]
+  },
+  "29": {
+   "article": "Candlestick Park",
+   "revid": 1379458213,
+   "eras": [
+    {
+     "from": 1960,
+     "to": 1960,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       397.0
+      ],
+      [
+       "CF",
+       0,
+       420.0
+      ],
+      [
+       "RCF",
+       22.5,
+       397.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "1960"
+    },
+    {
+     "from": 1961,
+     "to": 1999,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       335.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       365.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       365.0
+      ],
+      [
+       "RF line",
+       45,
+       328.0
+      ]
+     ],
+     "note": "final distances: the fences were moved in for 1961, and Wikipedia doesn't date any later change"
+    }
+   ]
+  },
+  "3153": {
+   "article": "Wrigley Field (Los Angeles)",
+   "revid": 1373630732,
+   "eras": [
+    {
+     "from": 1961,
+     "to": 1961,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       340.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       345.0
+      ],
+      [
+       "CF",
+       0,
+       412.0
+      ],
+      [
+       "RCF",
+       22.5,
+       345.0
+      ],
+      [
+       "RF line",
+       45,
+       339.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3135": {
+   "article": "Metropolitan Stadium",
+   "revid": 1376371728,
+   "eras": [
+    {
+     "from": 1961,
+     "to": 1981,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       343.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       365.0
+      ],
+      [
+       "CF",
+       0,
+       402.0
+      ],
+      [
+       "RCF",
+       22.5,
+       370.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3117": {
+   "article": "Colt Stadium",
+   "revid": 1372077099,
+   "eras": [
+    {
+     "from": 1962,
+     "to": 1964,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       360.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       395.0
+      ],
+      [
+       "CF (left)",
+       -7,
+       427.0
+      ],
+      [
+       "CF",
+       0,
+       420.0
+      ],
+      [
+       "CF (right)",
+       7,
+       427.0
+      ],
+      [
+       "RCF",
+       22.5,
+       395.0
+      ],
+      [
+       "RF line",
+       45,
+       360.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "22": {
+   "article": "Dodger Stadium",
+   "revid": 1375093238,
+   "eras": [
+    {
+     "from": 1962,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "Medium LCF",
+       -30,
+       360.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "Medium RCF",
+       30,
+       360.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "current; centre field is marked 395 but is 400 ft (as it has been since 1969)"
+    }
+   ]
+  },
+  "2721": {
+   "article": "Robert F. Kennedy Memorial Stadium",
+   "revid": 1372225490,
+   "eras": [
+    {
+     "from": 1962,
+     "to": 1971,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       335.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       380.0
+      ],
+      [
+       "CF",
+       0,
+       408.0
+      ],
+      [
+       "RCF",
+       22.5,
+       380.0
+      ],
+      [
+       "RF line",
+       45,
+       335.0
+      ]
+     ],
+     "note": "the Senators' years"
+    },
+    {
+     "from": 2005,
+     "to": 2007,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       335.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       395.0
+      ],
+      [
+       "CF",
+       0,
+       408.0
+      ],
+      [
+       "RCF",
+       22.5,
+       395.0
+      ],
+      [
+       "RF line",
+       45,
+       335.0
+      ]
+     ],
+     "note": "the Nationals' years, as remeasured in July 2005 (alleys 394.74 and 395, centre 407.83)"
+    }
+   ]
+  },
+  "25": {
+   "article": "Shea Stadium",
+   "revid": 1372229796,
+   "eras": [
+    {
+     "from": 1964,
+     "to": 1977,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       341.0
+      ],
+      [
+       "Medium LCF",
+       -30,
+       358.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       371.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       396.0
+      ],
+      [
+       "CF",
+       0,
+       410.0
+      ],
+      [
+       "Deep RCF",
+       15,
+       396.0
+      ],
+      [
+       "RCF",
+       22.5,
+       371.0
+      ],
+      [
+       "Medium RCF",
+       30,
+       358.0
+      ],
+      [
+       "RF line",
+       45,
+       341.0
+      ]
+     ],
+     "note": "1964–1977"
+    },
+    {
+     "from": 1978,
+     "to": 2008,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       338.0
+      ],
+      [
+       "Medium LCF",
+       -30,
+       358.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       371.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       396.0
+      ],
+      [
+       "CF",
+       0,
+       410.0
+      ],
+      [
+       "Deep RCF",
+       15,
+       396.0
+      ],
+      [
+       "RCF",
+       22.5,
+       371.0
+      ],
+      [
+       "Medium RCF",
+       30,
+       358.0
+      ],
+      [
+       "RF line",
+       45,
+       338.0
+      ]
+     ],
+     "note": "from 1978"
+    }
+   ]
+  },
+  "21": {
+   "article": "Astrodome",
+   "revid": 1379214658,
+   "eras": [
+    {
+     "from": 1965,
+     "to": 1984,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       340.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       406.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       340.0
+      ]
+     ],
+     "note": "original; the fences were moved in in the mid-1980s (taken here as 1985)"
+    },
+    {
+     "from": 1985,
+     "to": 1999,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       325.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "final"
+    }
+   ]
+  },
+  "3112": {
+   "article": "Atlanta–Fulton County Stadium",
+   "revid": 1372064804,
+   "eras": [
+    {
+     "from": 1966,
+     "to": 1968,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       385.0
+      ],
+      [
+       "CF",
+       0,
+       402.0
+      ],
+      [
+       "RCF",
+       22.5,
+       385.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "1966–68 & 1974–96"
+    },
+    {
+     "from": 1969,
+     "to": 1972,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       402.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "1969–1972"
+    },
+    {
+     "from": 1973,
+     "to": 1973,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       402.0
+      ],
+      [
+       "RCF",
+       22.5,
+       385.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "1973"
+    },
+    {
+     "from": 1974,
+     "to": 1996,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       385.0
+      ],
+      [
+       "CF",
+       0,
+       402.0
+      ],
+      [
+       "RCF",
+       22.5,
+       385.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "1966–68 & 1974–96"
+    }
+   ]
+  },
+  "1": {
+   "article": "Angel Stadium",
+   "revid": 1379214381,
+   "eras": [
+    {
+     "from": 1966,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       347.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       390.0
+      ],
+      [
+       "CF",
+       0,
+       396.0
+      ],
+      [
+       "RCF",
+       22.5,
+       370.0
+      ],
+      [
+       "Medium RCF",
+       30,
+       365.0
+      ],
+      [
+       "RF line",
+       45,
+       350.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "30": {
+   "article": "Busch Memorial Stadium",
+   "revid": 1375705915,
+   "eras": [
+    {
+     "from": 1966,
+     "to": 1995,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       386.0
+      ],
+      [
+       "CF",
+       0,
+       414.0
+      ],
+      [
+       "RCF",
+       22.5,
+       386.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "original (1966)"
+    },
+    {
+     "from": 1996,
+     "to": 2005,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       372.0
+      ],
+      [
+       "CF",
+       0,
+       402.0
+      ],
+      [
+       "RCF",
+       22.5,
+       372.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "1996"
+    }
+   ]
+  },
+  "3129": {
+   "article": "Jarry Park Stadium",
+   "revid": 1372207079,
+   "eras": [
+    {
+     "from": 1968,
+     "to": 1976,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       340.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       368.0
+      ],
+      [
+       "CF",
+       0,
+       420.0
+      ],
+      [
+       "RCF",
+       22.5,
+       368.0
+      ],
+      [
+       "RF line",
+       45,
+       340.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "10": {
+   "article": "Oakland Coliseum",
+   "revid": 1377933344,
+   "eras": [
+    {
+     "from": 1968,
+     "to": 2024,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       388.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       388.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3144": {
+   "article": "Sick's Stadium",
+   "revid": 1377791612,
+   "eras": [
+    {
+     "from": 1969,
+     "to": 1969,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       305.0
+      ],
+      [
+       "CF",
+       0,
+       402.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "1969"
+    }
+   ]
+  },
+  "28": {
+   "article": "San Diego Stadium",
+   "revid": 1375930779,
+   "eras": [
+    {
+     "from": 1969,
+     "to": 1972,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       420.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "1969"
+    },
+    {
+     "from": 1973,
+     "to": 1977,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       410.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "centre field 1973"
+    },
+    {
+     "from": 1978,
+     "to": 1981,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       420.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "centre field 1978"
+    },
+    {
+     "from": 1982,
+     "to": 1995,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       327.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       370.0
+      ],
+      [
+       "CF",
+       0,
+       405.0
+      ],
+      [
+       "RCF",
+       22.5,
+       370.0
+      ],
+      [
+       "RF line",
+       45,
+       327.0
+      ]
+     ],
+     "note": "1982"
+    },
+    {
+     "from": 1996,
+     "to": 2003,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       327.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       370.0
+      ],
+      [
+       "CF",
+       0,
+       405.0
+      ],
+      [
+       "RCF",
+       22.5,
+       370.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "1996: an in-play scoreboard along the right-field wall"
+    }
+   ]
+  },
+  "18": {
+   "article": "Riverfront Stadium",
+   "revid": 1372225253,
+   "eras": [
+    {
+     "from": 1970,
+     "to": 2000,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       404.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "1970–2000"
+    },
+    {
+     "from": 2001,
+     "to": 2002,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       325.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       370.0
+      ],
+      [
+       "CF",
+       0,
+       393.0
+      ],
+      [
+       "RCF",
+       22.5,
+       373.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "2001–2002"
+    }
+   ]
+  },
+  "27": {
+   "article": "Three Rivers Stadium",
+   "revid": 1372243664,
+   "eras": [
+    {
+     "from": 1970,
+     "to": 2000,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       335.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       335.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "26": {
+   "article": "Veterans Stadium",
+   "revid": 1379233321,
+   "eras": [
+    {
+     "from": 1971,
+     "to": 2003,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       371.0
+      ],
+      [
+       "CF",
+       0,
+       408.0
+      ],
+      [
+       "RCF",
+       22.5,
+       371.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3111": {
+   "article": "Arlington Stadium",
+   "revid": 1372064082,
+   "eras": [
+    {
+     "from": 1972,
+     "to": 1993,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       380.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       380.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "7": {
+   "article": "Kauffman Stadium",
+   "revid": 1376240550,
+   "eras": [
+    {
+     "from": 1973,
+     "to": 1994,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       385.0
+      ],
+      [
+       "CF",
+       0,
+       410.0
+      ],
+      [
+       "RCF",
+       22.5,
+       385.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "1973–1994"
+    },
+    {
+     "from": 1995,
+     "to": 2003,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "1995–2003"
+    },
+    {
+     "from": 2004,
+     "to": 2008,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       385.0
+      ],
+      [
+       "CF",
+       0,
+       410.0
+      ],
+      [
+       "RCF",
+       22.5,
+       385.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "2004–2008"
+    },
+    {
+     "from": 2009,
+     "to": 2025,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       387.0
+      ],
+      [
+       "CF",
+       0,
+       410.0
+      ],
+      [
+       "RCF",
+       22.5,
+       387.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "2009–2025"
+    },
+    {
+     "from": 2026,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       379.0
+      ],
+      [
+       "CF",
+       0,
+       410.0
+      ],
+      [
+       "RCF",
+       22.5,
+       379.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "2026–"
+    }
+   ]
+  },
+  "24": {
+   "article": "Olympic Stadium (Montreal)",
+   "revid": 1375638350,
+   "eras": [
+    {
+     "from": 1977,
+     "to": 1978,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       325.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       404.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "1977"
+    },
+    {
+     "from": 1979,
+     "to": 1979,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       325.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       405.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "centre field 1979"
+    },
+    {
+     "from": 1980,
+     "to": 1980,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       325.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       404.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "centre field 1980"
+    },
+    {
+     "from": 1981,
+     "to": 1982,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "1981"
+    },
+    {
+     "from": 1983,
+     "to": 2004,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       325.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       404.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "1983"
+    }
+   ]
+  },
+  "11": {
+   "article": "Kingdome",
+   "revid": 1379223521,
+   "eras": [
+    {
+     "from": 1977,
+     "to": 1999,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       316.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       357.0
+      ],
+      [
+       "CF",
+       0,
+       410.0
+      ],
+      [
+       "RCF",
+       22.5,
+       357.0
+      ],
+      [
+       "RF line",
+       45,
+       316.0
+      ]
+     ],
+     "note": "as at the 1979 All-Star Game (the only figures Wikipedia gives); used for every season"
+    }
+   ]
+  },
+  "3123": {
+   "article": "Exhibition Stadium",
+   "revid": 1373389585,
+   "eras": [
+    {
+     "from": 1977,
+     "to": 1989,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "8": {
+   "article": "Hubert H. Humphrey Metrodome",
+   "revid": 1378988593,
+   "eras": [
+    {
+     "from": 1982,
+     "to": 2009,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       343.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       385.0
+      ],
+      [
+       "CF",
+       0,
+       408.0
+      ],
+      [
+       "RCF",
+       22.5,
+       367.0
+      ],
+      [
+       "RF line",
+       45,
+       327.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "14": {
+   "article": "Rogers Centre",
+   "revid": 1378117035,
+   "eras": [
+    {
+     "from": 1989,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       328.0
+      ],
+      [
+       "Medium LCF",
+       -30,
+       368.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       381.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       372.0
+      ],
+      [
+       "Medium RCF",
+       30,
+       359.0
+      ],
+      [
+       "RF line",
+       45,
+       328.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "4": {
+   "article": "Rate Field",
+   "revid": 1379317170,
+   "eras": [
+    {
+     "from": 2001,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       335.0
+      ]
+     ],
+     "note": "2001–present"
+    }
+   ]
+  },
+  "2": {
+   "article": "Oriole Park at Camden Yards",
+   "revid": 1377140400,
+   "eras": [
+    {
+     "from": 1992,
+     "to": 2021,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       333.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       364.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       410.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       373.0
+      ],
+      [
+       "RF line",
+       45,
+       318.0
+      ]
+     ],
+     "note": "before 2022 (left-centre 364 as of 2020); the rest as today"
+    },
+    {
+     "from": 2022,
+     "to": 2024,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       333.0
+      ],
+      [
+       "LF",
+       -33.75,
+       384.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       398.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       373.0
+      ],
+      [
+       "RF line",
+       45,
+       318.0
+      ]
+     ],
+     "note": "2022–2024: left field pushed back"
+    },
+    {
+     "from": 2025,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       333.0
+      ],
+      [
+       "LF",
+       -33.75,
+       373.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       376.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       410.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       373.0
+      ],
+      [
+       "RF line",
+       45,
+       318.0
+      ]
+     ],
+     "note": "current (left field brought in again after 2024)"
+    }
+   ]
+  },
+  "3136": {
+   "article": "Mile High Stadium",
+   "revid": 1372216043,
+   "eras": [
+    {
+     "from": 1992,
+     "to": 1994,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       333.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       366.0
+      ],
+      [
+       "CF",
+       0,
+       423.0
+      ],
+      [
+       "RCF",
+       22.5,
+       400.0
+      ],
+      [
+       "RF line",
+       45,
+       370.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "5": {
+   "article": "Progressive Field",
+   "revid": 1378504146,
+   "eras": [
+    {
+     "from": 1994,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       325.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       370.0
+      ],
+      [
+       "Deep CF",
+       -7.0,
+       410.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "13": {
+   "article": "Choctaw Stadium",
+   "revid": 1374880883,
+   "eras": [
+    {
+     "from": 1994,
+     "to": 2019,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       332.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       390.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       377.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "19": {
+   "article": "Coors Field",
+   "revid": 1375299958,
+   "eras": [
+    {
+     "from": 1995,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       347.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       390.0
+      ],
+      [
+       "CF",
+       0,
+       415.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       350.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "15": {
+   "article": "Chase Field",
+   "revid": 1378357458,
+   "eras": [
+    {
+     "from": 1996,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       374.0
+      ],
+      [
+       "Deep LCF",
+       -12.0,
+       413.0
+      ],
+      [
+       "CF",
+       0,
+       407.0
+      ],
+      [
+       "Deep RCF",
+       12.0,
+       413.0
+      ],
+      [
+       "RCF",
+       22.5,
+       374.0
+      ],
+      [
+       "RF line",
+       45,
+       334.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "12": {
+   "article": "Tropicana Field",
+   "revid": 1378298940,
+   "eras": [
+    {
+     "from": 1996,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       315.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       370.0
+      ],
+      [
+       "CF",
+       0,
+       404.0
+      ],
+      [
+       "RCF",
+       22.5,
+       370.0
+      ],
+      [
+       "RF line",
+       45,
+       322.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "680": {
+   "article": "T-Mobile Park",
+   "revid": 1379419810,
+   "eras": [
+    {
+     "from": 1999,
+     "to": 2012,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       331.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       388.0
+      ],
+      [
+       "CF",
+       0,
+       405.0
+      ],
+      [
+       "RCF",
+       22.5,
+       385.0
+      ],
+      [
+       "RF line",
+       45,
+       326.0
+      ]
+     ],
+     "note": "original (the article's notes of the original distances)"
+    },
+    {
+     "from": 2013,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       331.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       378.0
+      ],
+      [
+       "CF",
+       0,
+       401.0
+      ],
+      [
+       "RCF",
+       22.5,
+       381.0
+      ],
+      [
+       "RF line",
+       45,
+       326.0
+      ]
+     ],
+     "note": "from 2013, when the fences were moved in"
+    }
+   ]
+  },
+  "2394": {
+   "article": "Comerica Park",
+   "revid": 1376178715,
+   "eras": [
+    {
+     "from": 2003,
+     "to": 2022,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       345.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       370.0
+      ],
+      [
+       "CF",
+       0,
+       422.0
+      ],
+      [
+       "RCF",
+       22.5,
+       365.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "2003–2022: centre field 10 ft deeper than from 2023, left field before its 2023 relabelling (345, as MLB posted it)"
+    },
+    {
+     "from": 2023,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       342.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       370.0
+      ],
+      [
+       "CF",
+       0,
+       412.0
+      ],
+      [
+       "RCF",
+       22.5,
+       365.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "from 2023"
+    }
+   ]
+  },
+  "2392": {
+   "article": "Daikin Park",
+   "revid": 1377935430,
+   "eras": [
+    {
+     "from": 2000,
+     "to": 2016,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       315.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       366.0
+      ],
+      [
+       "Deep LCF",
+       -12.0,
+       399.0
+      ],
+      [
+       "CF",
+       0,
+       436.0
+      ],
+      [
+       "Deep RCF",
+       12.0,
+       408.0
+      ],
+      [
+       "RCF",
+       22.5,
+       370.0
+      ],
+      [
+       "RF line",
+       45,
+       326.0
+      ]
+     ],
+     "note": "2000–2016: centre field 436 ft"
+    },
+    {
+     "from": 2017,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       315.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       366.0
+      ],
+      [
+       "Deep LCF",
+       -12.0,
+       399.0
+      ],
+      [
+       "CF",
+       0,
+       409.0
+      ],
+      [
+       "Deep RCF",
+       12.0,
+       408.0
+      ],
+      [
+       "RCF",
+       22.5,
+       370.0
+      ],
+      [
+       "RF line",
+       45,
+       326.0
+      ]
+     ],
+     "note": "from 2017"
+    }
+   ]
+  },
+  "2395": {
+   "article": "Oracle Park",
+   "revid": 1372223272,
+   "eras": [
+    {
+     "from": 2000,
+     "to": 2019,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       339.0
+      ],
+      [
+       "LF",
+       -33.75,
+       354.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       399.0
+      ],
+      [
+       "CF",
+       0,
+       391.0
+      ],
+      [
+       "RCF",
+       22.5,
+       421.0
+      ],
+      [
+       "RF",
+       33.75,
+       365.0
+      ],
+      [
+       "RF line",
+       45,
+       309.0
+      ]
+     ],
+     "note": "2000–2019: right-centre 421 ft"
+    },
+    {
+     "from": 2020,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       339.0
+      ],
+      [
+       "LF",
+       -33.75,
+       354.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       399.0
+      ],
+      [
+       "CF",
+       0,
+       391.0
+      ],
+      [
+       "RCF",
+       22.5,
+       415.0
+      ],
+      [
+       "RF",
+       33.75,
+       365.0
+      ],
+      [
+       "RF line",
+       45,
+       309.0
+      ]
+     ],
+     "note": "from 2020"
+    }
+   ]
+  },
+  "32": {
+   "article": "American Family Field",
+   "revid": 1378421810,
+   "eras": [
+    {
+     "from": 2001,
+     "to": 2020,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       344.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       371.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       374.0
+      ],
+      [
+       "RF line",
+       45,
+       337.0
+      ]
+     ],
+     "note": "left field line as originally (344)"
+    },
+    {
+     "from": 2021,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       342.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       371.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       374.0
+      ],
+      [
+       "RF line",
+       45,
+       337.0
+      ]
+     ],
+     "note": "from 2021 (right field line: the actual 337, posted 345)"
+    }
+   ]
+  },
+  "31": {
+   "article": "PNC Park",
+   "revid": 1379228702,
+   "eras": [
+    {
+     "from": 2001,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       325.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       383.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       410.0
+      ],
+      [
+       "CF",
+       0,
+       399.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       320.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "2602": {
+   "article": "Great American Ball Park",
+   "revid": 1378720434,
+   "eras": [
+    {
+     "from": 2003,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       328.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       379.0
+      ],
+      [
+       "CF",
+       0,
+       404.0
+      ],
+      [
+       "RCF",
+       22.5,
+       370.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "2681": {
+   "article": "Citizens Bank Park",
+   "revid": 1378696704,
+   "eras": [
+    {
+     "from": 2004,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       329.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       374.0
+      ],
+      [
+       "Monty's Angle",
+       -10.0,
+       409.0
+      ],
+      [
+       "CF",
+       0,
+       401.0
+      ],
+      [
+       "RCF",
+       22.5,
+       369.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "2680": {
+   "article": "Petco Park",
+   "revid": 1377977726,
+   "eras": [
+    {
+     "from": 2004,
+     "to": 2012,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       336.0
+      ],
+      [
+       "LF",
+       -33.75,
+       343.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       402.0
+      ],
+      [
+       "CF",
+       0,
+       396.0
+      ],
+      [
+       "RCF",
+       22.5,
+       411.0
+      ],
+      [
+       "RF line",
+       45,
+       331.0
+      ]
+     ],
+     "note": "2004–2012: left-centre 402, right-centre 411 (right field's 360 left out: it's not a mark the current figures share)"
+    },
+    {
+     "from": 2013,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       336.0
+      ],
+      [
+       "LF",
+       -33.75,
+       343.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       386.0
+      ],
+      [
+       "CF",
+       0,
+       396.0
+      ],
+      [
+       "RCF",
+       22.5,
+       391.0
+      ],
+      [
+       "RF",
+       33.75,
+       382.0
+      ],
+      [
+       "RF line",
+       45,
+       331.0
+      ]
+     ],
+     "note": "from 2013, when the fences were moved in"
+    }
+   ]
+  },
+  "2889": {
+   "article": "Busch Stadium",
+   "revid": 1377977448,
+   "eras": [
+    {
+     "from": 2006,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       336.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       375.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       335.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3309": {
+   "article": "Nationals Park",
+   "revid": 1379437509,
+   "eras": [
+    {
+     "from": 2008,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       337.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       377.0
+      ],
+      [
+       "CF",
+       0,
+       402.0
+      ],
+      [
+       "RCF",
+       22.5,
+       370.0
+      ],
+      [
+       "RF line",
+       45,
+       335.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3289": {
+   "article": "Citi Field",
+   "revid": 1377977619,
+   "eras": [
+    {
+     "from": 2009,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       335.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       358.0
+      ],
+      [
+       "Deep LCF",
+       -15,
+       385.0
+      ],
+      [
+       "CF",
+       0,
+       408.0
+      ],
+      [
+       "Deep RCF",
+       15,
+       398.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       330.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3313": {
+   "article": "Yankee Stadium",
+   "revid": 1378222004,
+   "eras": [
+    {
+     "from": 2009,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       318.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       399.0
+      ],
+      [
+       "CF",
+       0,
+       408.0
+      ],
+      [
+       "RCF",
+       22.5,
+       385.0
+      ],
+      [
+       "RF line",
+       45,
+       314.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3312": {
+   "article": "Target Field",
+   "revid": 1379001210,
+   "eras": [
+    {
+     "from": 2010,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       339.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       377.0
+      ],
+      [
+       "CF (left)",
+       -7,
+       411.0
+      ],
+      [
+       "CF (right)",
+       7,
+       403.0
+      ],
+      [
+       "RCF",
+       22.5,
+       367.0
+      ],
+      [
+       "RF line",
+       45,
+       328.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "4169": {
+   "article": "LoanDepot Park",
+   "revid": 1376431410,
+   "eras": [
+    {
+     "from": 2012,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       344.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       386.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       387.0
+      ],
+      [
+       "RF line",
+       45,
+       335.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "4705": {
+   "article": "Truist Park",
+   "revid": 1372245868,
+   "eras": [
+    {
+     "from": 2017,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       335.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       385.0
+      ],
+      [
+       "CF",
+       0,
+       400.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "5325": {
+   "article": "Globe Life Field",
+   "revid": 1377936073,
+   "eras": [
+    {
+     "from": 2020,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       329.0
+      ],
+      [
+       "Just inside the LF line",
+       -42.0,
+       334.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       372.0
+      ],
+      [
+       "Deepest LCF",
+       -10.0,
+       410.0
+      ],
+      [
+       "CF",
+       0,
+       407.0
+      ],
+      [
+       "Deepest RCF",
+       10.0,
+       410.0
+      ],
+      [
+       "RCF",
+       22.5,
+       374.0
+      ],
+      [
+       "RF line",
+       45,
+       326.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "2529": {
+   "article": "Sutter Health Park",
+   "revid": 1377190648,
+   "eras": [
+    {
+     "from": 2025,
+     "to": 2100,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       330.0
+      ],
+      [
+       "CF",
+       0,
+       403.0
+      ],
+      [
+       "RF line",
+       45,
+       325.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "2523": {
+   "article": "George M. Steinbrenner Field",
+   "revid": 1372182328,
+   "eras": [
+    {
+     "from": 2025,
+     "to": 2025,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       318.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       399.0
+      ],
+      [
+       "CF",
+       0,
+       408.0
+      ],
+      [
+       "RCF",
+       22.5,
+       385.0
+      ],
+      [
+       "RF line",
+       45,
+       314.0
+      ]
+     ],
+     "note": "Wikipedia gives one set of distances (the current or final one); it's used for every season here"
+    }
+   ]
+  },
+  "3133": {
+   "article": "Los Angeles Memorial Coliseum",
+   "revid": 1378741052,
+   "eras": [
+    {
+     "from": 1958,
+     "to": 1961,
+     "marks": [
+      [
+       "LF line",
+       -45,
+       251.0
+      ],
+      [
+       "LCF",
+       -22.5,
+       320.0
+      ],
+      [
+       "CF",
+       0,
+       417.0
+      ],
+      [
+       "RCF",
+       22.5,
+       375.0
+      ],
+      [
+       "RF line",
+       45,
+       300.0
+      ]
+     ],
+     "note": "The article's 1959 distances (from an LA Times diagram); it gives the 251-foot left-field line for all of 1958-1961, with a 42-foot screen in left",
+     "walls": [
+      {
+       "from": -45,
+       "to": -16.55,
+       "height": 42.0,
+       "label": "left-field screen",
+       "note": "42 ft (Wikipedia); its extent, over all of left field -- here to where the left fielder's zone ends, 16.55 degrees from centre (the middle of the left-centre zone, as on the Naturalzone tab) -- is an approximation from other sources, not Wikipedia"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

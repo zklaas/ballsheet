@@ -1,0 +1,26 @@
+{
+  "name": "Best pitcher by primary pitch",
+  "description": "For each kind of pitch, the pitcher-season with the fewest runs allowed per nine innings (the Runs per Nine Innings custom stat) among pitchers whose most-thrown pitch that season was that kind, 2008-2026 — the pitch-tracking years (PITCHf/x from 2008, Statcast from 2015), using MLB's pitch types. Only seasons that qualify for the ERA title count (an inning pitched per team game), AL and NL. The 60-game 2020 season is left out: its qualifiers needed only 60 innings. The pitch types run from the most common main pitch among qualifiers to the least; each point says how many qualifying seasons had that main pitch.",
+  "source": "league-seasons",
+  "pitchers": true,
+  "season": 2008,
+  "season_to": 2026,
+  "where": [
+    "{Pitching: IP} >= {Team: G}",
+    "{Player: Season} != 2020"
+  ],
+  "rank_by": "{Custom: Runs per Nine Innings}",
+  "order": "lowest",
+  "each": "primary pitch",
+  "top": 1,
+  "x": "rank",
+  "series": [
+    {"name": "Runs per nine innings", "formula": "{Custom: Runs per Nine Innings}", "panel": 1, "format": "2"},
+    {"name": "MLB runs per nine that season", "formula": "{MLB: R/9}", "panel": 1, "format": "2"},
+    {"name": "Main pitch, % of his pitches", "formula": "{Pitch: Primary %} * 100", "panel": 2, "format": "1"}
+  ],
+  "panels": {
+    "1": {"title": "Runs allowed per nine innings (lower is better)", "min": 0},
+    "2": {"title": "How much he leaned on his main pitch (% of pitches)", "min": 0, "max": 100}
+  }
+}
