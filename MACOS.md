@@ -42,4 +42,4 @@ Settings and season files are kept in `~/Library/Application Support/BallSheet`,
 
 To remove it: delete the folder, `~/Applications/BallSheet.app` and `~/.local/bin/ballsheet`.
 
-If something doesn't work, please write to zklaas@yahoo.ca.
+If something doesn't work, please write to zklaastest-testing@yahoo.com.

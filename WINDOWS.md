@@ -40,4 +40,4 @@ Settings are kept in `%APPDATA%\BallSheet`, downloaded data in `%LOCALAPPDATA%\B
 To remove it: delete the folder, the Start-menu entry (BallSheet) and
 `%LOCALAPPDATA%\Programs\BallSheet`.
 
-If something doesn't work, please write to zklaas@yahoo.ca.
+If something doesn't work, please write to zklaastest-testing@yahoo.com.
